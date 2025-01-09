@@ -1,0 +1,103 @@
+.navbar-expand-lg .navbar-collapse{flex-direction: row-reverse !important;}
+.navbar-toggler-icon{background-image: url('../src/Icons/Arrow-top.svg');}
+.navbar-toggler:focus{box-shadow: none;}
+.navbar-toggler {
+    border: none;
+    padding: 0px;
+    box-shadow: none;
+    transition: transform 0.5s ease-in-out;
+}
+.navbar-toggler[aria-expanded="true"] {transform: rotate(180deg);}
+
+.container-fluid {width: 95.278vw !important;}
+
+/* Headings */
+#h1-width{font-family: "Satoshi", sans-serif !important; font-weight: medium; text-transform: uppercase; font-size: 9.6vw;}
+.h1{font-family: "Satoshi", sans-serif !important; font-weight: bold; font-size: 6.25em !important;}
+h2{font-family: "Satoshi", sans-serif !important; font-weight: medium; font-size: 3.125em /*50px*/ !important; line-height: 1.1 !important;}
+.h3{font-family: "Satoshi", sans-serif !important; font-weight: medium; font-size: 1.875em /*30px*/ !important;} 
+h3{font-family: "Satoshi", sans-serif !important; font-weight: medium; font-size: 1.875em /*30px*/ !important;} 
+h4{font-family: "Hanken Grotesk", serif; font-size: 1.25em /*20px*/ !important;} 
+p{font-family: "Hanken Grotesk", serif; font-size: 1em !important; color: #6d6d6d;}
+
+.btn{
+    border-radius: 50px !important; 
+    background-color: white; 
+    margin-right: 5px; 
+    border: 1px solid!important;
+    color: #6d6d6d;
+}
+.btn:hover{background-color:#cfcfcf!important}
+.active{color: black !important; border: 1px solid black !important;}
+.nav-link{border: 0px !important;}
+.overflow-x-scroll{scrollbar-width: none;}
+.carousel-item{border: 0px !important;}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+    #h1-width{ font-size: 9vw;}
+    .h1{font-size: 3.5em !important; line-height: 1.1 !important;}
+    h2{font-size: 2.188em /*35px*/ !important; line-height: 1.1 !important;}
+    h3{font-size: 1.375em /*22px*/ !important;}
+    .h3{font-size: 1.375em /*22px*/ !important;} 
+    h4{font-size: 1.1em /*18px*/ !important;}
+    .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
+    .navbar-expand-lg{padding-bottom: 40px;} 
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+    #h1-width{font-size: 9.4vw;}
+    .h1{font-size: 5em !important;}
+    h2{font-size: 2.5em /*40px*/ !important; line-height: 1.2 !important;}
+    h3{font-size: 1.5em /*24px*/ !important;}
+    .h3{font-size: 1.5em /*24px*/ !important;} 
+    h4{font-size: 1.2em /*18px*/ !important;}
+    .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
+    .navbar-expand-lg{padding-bottom: 40px;} 
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    #h1-width{font-size: 9.4vw;}
+    .h1{font-size: 5em !important;}
+    h2{font-size: 2.5em /*40px*/ !important; line-height: 1.1 !important;}
+    h3{font-size: 1.563em /*25px*/ !important;}
+    .h3{font-size: 1.563em /*25px*/ !important;}
+    h4{font-size: 1.125em /*18px*/ !important;}
+    .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
+    .navbar-expand-lg{padding-bottom: 40px;} 
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    #h1-width{font-size: 9.6vw;}
+    .h1{font-size: 5em !important;}
+    h2{font-size: 3.125em /*50px*/ !important; line-height: 1.1 !important;}
+    h3{font-size: 1.875em /*30px*/ !important;}
+    .h3{font-size: 1.875em /*30px*/ !important;} 
+    h4{font-size: 1.25em /*20px*/ !important;}
+    .nav-link{font-size: 1em;} 
+}
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    #h1-width{font-size: 9.6vw;}
+    .h1{font-size: 5.625em !important;}
+    h2{font-size: 3.125em /*50px*/ !important; line-height: 1.1 !important;}
+    h3{font-size: 1.875em /*30px*/ !important;}
+    .h3{font-size: 1.875em /*30px*/ !important;} 
+    h4{font-size: 1.25em /*20px*/ !important;}
+    .nav-link{font-size: 1em;}  
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    #h1-width{font-size: 9.6vw;}
+    .h1{font-size: 6.25em !important;}
+    h2{font-size: 3.125em /*50px*/ !important; line-height: 1.1 !important;}
+    h3{font-size: 1.875em /*30px*/ !important;} 
+    .h3{font-size: 1.875em /*30px*/ !important;}
+    h4{font-size: 1.25em /*20px*/ !important;}
+    .nav-link{font-size: 1em;}  
+}

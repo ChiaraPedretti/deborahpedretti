@@ -1,0 +1,62 @@
+    /* Libreria */
+    .bookshelf {
+        position: relative;
+        /*width: 80%;
+        max-width: 1200px;*/
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+    }
+
+    /* Scaffale */
+    .shelf {
+        position: absolute;
+        bottom: -30px;
+        left: 0;
+        right: 0;
+        height: 30px;
+        background-color: rgb(225, 225, 225);
+    }
+
+    /* Scaffali dinamici */
+    .dynamic-shelf {
+        position: absolute;
+        left: 0;
+        right: 0;
+        height: 30px;
+        background-color:  rgb(225, 225, 225);
+    }
+
+    /* Libri */
+    .book {
+        position: relative;
+        display: inline-block;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: center;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+        margin-top: 50px;
+        transform-origin: bottom;
+    }
+
+    .book:hover {
+        transform: translateY(-10px);
+        transform: scale(1.1);
+        z-index: 100;
+    }
+
+    /* tooltipLibrary */
+    .tooltipLibrary {
+        position: absolute;
+        display: none;
+        padding: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        font-size: 14px;
+        color: #333;
+        z-index: 1000;
+        pointer-events: none;
+        background-color: #ffffff;
+    }
