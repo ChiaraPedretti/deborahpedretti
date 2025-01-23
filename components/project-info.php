@@ -72,7 +72,7 @@ $project = array(
                                     <img class="media-background-image" src="src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_004.webp" alt="Sovracoperta_004" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project.php?id=auth-79"',
-        /*7 NEXT PROJECT P */   'Auth 79',
+        /*7 NEXT PROJECT P */   'AuTh 79',
         /*8 ANNO */             '2021',
         /*9 Tipologia */        'Progetto scolastico',
     ),
@@ -210,7 +210,7 @@ $project = array(
         /*6 NEXT PROJECT A */   'href="project.php?id=sperimentazione-tipografica"',
         /*7 NEXT PROJECT P */   'Sperimentazione tipografica',
         /*8 ANNO */             '2022',
-        /*9 Tipologia */        '',
+        /*9 Tipologia */        'Progetto personale',
     ),
 
     //7 - SUPSI manifesti
@@ -241,7 +241,7 @@ $project = array(
                                     <img class="media-background-image" src="src/Projects/Grafica/Poster-SUPSI/Screenshot/SUP_Segnalibro_001.webp" alt="SUP_Segnalibro_001" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project.php?id=pillole-sul-graphic-design"',
-        /*7 NEXT PROJECT P */   'Progetto personale',
+        /*7 NEXT PROJECT P */   'Pillole sul Graphic Design',
         /*8 ANNO */             '2023',
         /*9 Tipologia */        'Commissionato / scolastico',
     ),
@@ -470,7 +470,7 @@ $project = array(
                                     <img class="media-background-image" src="src/Projects/Commissionati/Village-037/Mockups/VIL_Paper_Logo_001.webp" alt="VIL_Paper_Logo_001" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project.php?id=less-is-more_more-is-more"',
-        /*7 NEXT PROJECT P */   'Less is more / more is more',
+        /*7 NEXT PROJECT P */   'Less is more / More is more',
         /*8 ANNO */             '2024',
         /*9 Tipologia */        'Commissionato',
     ),

@@ -156,7 +156,7 @@
                         data-publisher="BIS" data-year="2014"
                         data-image="src/libreria/Drew-de-Soto_Know-your-onions-Graphic-design_3.webp"
                         data-height-cm="21.5" data-width-cm="1.8"></div>
-                    <div class="book" data-title="Beer wine and spirits" data-author="Almost"
+                    <div class="book" data-title="Packaged for Life - Beer, Wine, & Spirits" data-author="Almost"
                         data-publisher="Victionary" data-year="2021"
                         data-image="src/libreria/Almost_Beer-wine-and-spirits_3.webp" data-height-cm="20"
                         data-width-cm="2"></div>
@@ -200,7 +200,7 @@
                         data-publisher="Einaudi" data-year="2022"
                         data-image="src/libreria/Riccardo-Falcinelli_Filosofia-del-graphic-design_3.webp"
                         data-height-cm="20" data-width-cm="3"></div>
-                    <div class="book" data-title="Coofee and tea" data-author="Almost" data-publisher="Victionary"
+                    <div class="book" data-title="Packaged for Life - Coffee & Tea" data-author="Almost" data-publisher="Victionary"
                         data-year="2021" data-image="src/libreria/Almost_Coofee-and-tea_3.webp" data-height-cm="20"
                         data-width-cm="2"></div>
                     <div class="book" data-title="Che cosa vediamo quando leggiamo" data-author="Peter Mendelsund"
@@ -235,7 +235,7 @@
                     <div class="book" data-title="Colour Clash" data-author="Jon Dowling" data-publisher="Counter Print"
                         data-year="2023" data-image="src/libreria/Jon-Dowling_Colour-Clash_3.webp"
                         data-height-cm="25.5" data-width-cm="1"></div>
-                    <div class="book" data-title="Mascotte" data-author="Jon Dowling" data-publisher="Counter Print"
+                    <div class="book" data-title="Mascot" data-author="Jon Dowling" data-publisher="Counter Print"
                         data-year="2022" data-image="src/libreria/Jon-Dowling_Mascotte_3.webp" data-height-cm="24.5"
                         data-width-cm="1.2"></div>
                     <div class="book" data-title="Poses for Fashion Illustration" data-author="Womens Edition"
