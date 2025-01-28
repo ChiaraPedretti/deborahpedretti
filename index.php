@@ -74,7 +74,7 @@
                 Questo percorso mi ha permesso di sviluppare una spiccata sensibilità estetica e un approccio versatile,
                 con una particolare attenzione ai dettagli.
                 <a href="about.php">
-                    <img class="circle-about" src="src/Icons/Arrow-right.png" alt="Arrow-right">
+                    <img class="circle-about" src="src/Icons/Arrow-right.svg" alt="Arrow-right">
                 </a>
             </h2>
         </div>

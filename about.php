@@ -139,104 +139,104 @@
                 <div class="bookshelf">
                     <!-- Scaffale fisso nella prima riga di libri <div class="shelf"></div>-->
                     <div class="book" data-title="Moda" data-author="Dorling Kindersley" data-publisher="Gribaudo"
-                        data-year="2016" data-image="src/libreria/Dorling-Kindersley_Moda_3.webp"
+                        data-year="2016" data-image="src/Libreria/Dorling-Kindersley_Moda_3.webp"
                         data-height-cm="31" data-width-cm="3.5"></div>
                     <div class="book" data-title="Grid Systems" data-author="Josef Müller Brockermann"
                         data-publisher="Entremonde" data-year="2017"
-                        data-image="src/libreria/Josef-Muller-Brockermann_Sistemi-a-griglia-per-la-progettazione-grafica_3.webp"
+                        data-image="src/Libreria/Josef-Muller-Brockermann_Sistemi-a-griglia-per-la-progettazione-grafica_3.webp"
                         data-height-cm="30" data-width-cm="2"></div>
                     <div class="book" data-title="Brand 111" data-author="Elio Carmi" data-publisher="Fausto Lupetti"
-                        data-year="2020" data-image="src/libreria/Elio-Carmi_Brand-111_3.webp" data-height-cm="19.1"
+                        data-year="2020" data-image="src/Libreria/Elio-Carmi_Brand-111_3.webp" data-height-cm="19.1"
                         data-width-cm="1.8"></div>
                     <div class="book" data-title="Semiotica" data-author="Patrizia Magli"
                         data-publisher="Fausto Lupetti" data-year="2004"
-                        data-image="src/libreria/Patrizia-Magli_Semiotica_3.webp" data-height-cm="19.1"
+                        data-image="src/Libreria/Patrizia-Magli_Semiotica_3.webp" data-height-cm="19.1"
                         data-width-cm="1.5"></div>
                     <div class="book" data-title="Know your onions / Graphic design" data-author="Drew de Soto"
                         data-publisher="BIS" data-year="2014"
-                        data-image="src/libreria/Drew-de-Soto_Know-your-onions-Graphic-design_3.webp"
+                        data-image="src/Libreria/Drew-de-Soto_Know-your-onions-Graphic-design_3.webp"
                         data-height-cm="21.5" data-width-cm="1.8"></div>
                     <div class="book" data-title="Packaged for Life - Beer, Wine, & Spirits" data-author="Almost"
                         data-publisher="Victionary" data-year="2021"
-                        data-image="src/libreria/Almost_Beer-wine-and-spirits_3.webp" data-height-cm="20"
+                        data-image="src/Libreria/Almost_Beer-wine-and-spirits_3.webp" data-height-cm="20"
                         data-width-cm="2"></div>
                     <div class="book" data-title="Critica portatile al visual design" data-author="Riccardo Falcinelli"
                         data-publisher="Einaudi" data-year="2014"
-                        data-image="src/libreria/Riccardo-Falcinelli_Critica-portatile-al-visual-design_3.webp"
+                        data-image="src/Libreria/Riccardo-Falcinelli_Critica-portatile-al-visual-design_3.webp"
                         data-height-cm="20" data-width-cm="2"></div>
                     <div class="book" data-title="Cromorama" data-author="Riccardo Falcinelli" data-publisher="Einaudi"
-                        data-year="2017" data-image="src/libreria/Riccardo-Falcinelli_Cromorama_3.webp"
+                        data-year="2017" data-image="src/Libreria/Riccardo-Falcinelli_Cromorama_3.webp"
                         data-height-cm="21" data-width-cm="3.5"></div>
                     <div class="book" data-title="Figure" data-author="Riccardo Falcinelli" data-publisher="Einaudi"
-                        data-year="2020" data-image="src/libreria/Riccardo-Falcinelli_Figure_3.webp"
+                        data-year="2020" data-image="src/Libreria/Riccardo-Falcinelli_Figure_3.webp"
                         data-height-cm="21" data-width-cm="3.5"></div>
                     <div class="d-block">
                         <img src="src/Libreria/Candela.svg" width=150px alt="Candle">
                     </div>
                     <div class="book" data-title="Sei proprio il mio typo" data-author="Simon Garfield"
                         data-publisher="TEA" data-year="2021"
-                        data-image="src/libreria/Simon-Garfield_Sei-proprio-il-mio-typo_3.webp" data-height-cm="21"
+                        data-image="src/Libreria/Simon-Garfield_Sei-proprio-il-mio-typo_3.webp" data-height-cm="21"
                         data-width-cm="2"></div>
                     <div class="book" data-title="Il medium è il messaggio"
                         data-author="Marshall McLuhan e Quentin Fiore" data-publisher="Corraini" data-year="2011"
-                        data-image="src/libreria/Marshall-McLuhan_Quentin-Fiore_Il-medium-e-il-messaggio_3.webp"
+                        data-image="src/Libreria/Marshall-McLuhan_Quentin-Fiore_Il-medium-e-il-messaggio_3.webp"
                         data-height-cm="18" data-width-cm="1.3"></div>
                     <div class="book" data-title="Food & Drink Logos" data-author="Counter Print"
                         data-publisher="Counter Print" data-year="2022"
-                        data-image="src/libreria/Counter-Print_Food-and-drink-logos_3.webp" data-height-cm="15.5"
+                        data-image="src/Libreria/Counter-Print_Food-and-drink-logos_3.webp" data-height-cm="15.5"
                         data-width-cm="1"></div>
                     <div class="book" data-title="The Hidden Facts of Fashion" data-author="Fashionary"
                         data-publisher="Fashionary" data-year="2020"
-                        data-image="src/libreria/Fashionary_The-hidden-facts-of-fashion_3.webp"
+                        data-image="src/Libreria/Fashionary_The-hidden-facts-of-fashion_3.webp"
                         data-height-cm="19.2" data-width-cm="1.3"></div>
                     <div class="book" data-title="The history of graphic design" data-author="Jens Muller"
                         data-publisher="TASCHEN" data-year="2022"
-                        data-image="src/libreria/Jens-Muller_The-history-of-graphic-design_3.webp"
+                        data-image="src/Libreria/Jens-Muller_The-history-of-graphic-design_3.webp"
                         data-height-cm="22" data-width-cm="4"></div>
                     <div class="book" data-title="Pantone 100 Postcards" data-author="Pantone" data-publisher="Pantone"
                         data-year="2018" data-image="src/Libreria/Pantone.webp" data-height-cm="16"
                         data-width-cm="7.2"></div>
                     <div class="book" data-title="Filosofia del graphic design" data-author="Riccardo Falcinelli"
                         data-publisher="Einaudi" data-year="2022"
-                        data-image="src/libreria/Riccardo-Falcinelli_Filosofia-del-graphic-design_3.webp"
+                        data-image="src/Libreria/Riccardo-Falcinelli_Filosofia-del-graphic-design_3.webp"
                         data-height-cm="20" data-width-cm="3"></div>
                     <div class="book" data-title="Packaged for Life - Coffee & Tea" data-author="Almost" data-publisher="Victionary"
-                        data-year="2021" data-image="src/libreria/Almost_Coofee-and-tea_3.webp" data-height-cm="20"
+                        data-year="2021" data-image="src/Libreria/Almost_Coofee-and-tea_3.webp" data-height-cm="20"
                         data-width-cm="2"></div>
                     <div class="book" data-title="Che cosa vediamo quando leggiamo" data-author="Peter Mendelsund"
                         data-publisher="Corraini" data-year="2020"
-                        data-image="src/libreria/Peter-Mendelsund_Che-cosa-vediamo-quando-leggiamo_3.webp"
+                        data-image="src/Libreria/Peter-Mendelsund_Che-cosa-vediamo-quando-leggiamo_3.webp"
                         data-height-cm="20" data-width-cm="3"></div>
                     <div class="book" data-title="Palette Perfect" data-author="Sara Caldas" data-publisher="Hoaki"
-                        data-year="2021" data-image="src/libreria/Sara-Caldas_Palette-Perfect_3.webp"
+                        data-year="2021" data-image="src/Libreria/Sara-Caldas_Palette-Perfect_3.webp"
                         data-height-cm="21" data-width-cm="2.5"></div>
                     <div class="d-block">
                         <img src="src/Libreria/Cactus.svg" width=250px alt="Cactus">
                     </div>
                     <div class="book" data-title="Typeone issue three" data-author="Typeone" data-publisher="Typeone"
-                        data-year="2021" data-image="src/libreria/Typeone-issue-three_Typeone.webp"
+                        data-year="2021" data-image="src/Libreria/Typeone-issue-three_Typeone.webp"
                         data-height-cm="29.5" data-width-cm="1"></div>
                     <div class="book" data-title="Bon appétit" data-author="Sendpoints" data-publisher="Sendpoints"
-                        data-year="2016" data-image="src/libreria/Sendpoints_Bon-appetit_3.webp" data-height-cm="28"
+                        data-year="2016" data-image="src/Libreria/Sendpoints_Bon-appetit_3.webp" data-height-cm="28"
                         data-width-cm="2.5"></div>
                     <div class="book" data-title="Less is more" data-author="Victionary" data-publisher="Victionary"
-                        data-year="2022" data-image="src/libreria/Victionary_Less-Is-More_3.webp"
+                        data-year="2022" data-image="src/Libreria/Victionary_Less-Is-More_3.webp"
                         data-height-cm="25.5" data-width-cm="2"></div>
                     <div class="book" data-title="More is more" data-author="Victionary" data-publisher="Victionary"
-                        data-year="2021" data-image="src/libreria/Victionary_More-Is-More_3.webp"
+                        data-year="2021" data-image="src/Libreria/Victionary_More-Is-More_3.webp"
                         data-height-cm="25.5" data-width-cm="2"></div>
                     <div class="book" data-title="Printable" data-author="Victionary" data-publisher="Victionary"
-                        data-year="2023" data-image="src/libreria/Victionary_Printable_3.webp" data-height-cm="25.5"
+                        data-year="2023" data-image="src/Libreria/Victionary_Printable_3.webp" data-height-cm="25.5"
                         data-width-cm="2.5"></div>
                     <div class="book" data-title="On the Road to Variable" data-author="Victionary"
                         data-publisher="Victionary" data-year="2019"
-                        data-image="src/libreria/Victionary_On-the-Road-to-Variable_3.webp" data-height-cm="26.5"
+                        data-image="src/Libreria/Victionary_On-the-Road-to-Variable_3.webp" data-height-cm="26.5"
                         data-width-cm="2"></div>
                     <div class="book" data-title="Colour Clash" data-author="Jon Dowling" data-publisher="Counter Print"
-                        data-year="2023" data-image="src/libreria/Jon-Dowling_Colour-Clash_3.webp"
+                        data-year="2023" data-image="src/Libreria/Jon-Dowling_Colour-Clash_3.webp"
                         data-height-cm="25.5" data-width-cm="1"></div>
                     <div class="book" data-title="Mascot" data-author="Jon Dowling" data-publisher="Counter Print"
-                        data-year="2022" data-image="src/libreria/Jon-Dowling_Mascotte_3.webp" data-height-cm="24.5"
+                        data-year="2022" data-image="src/Libreria/Jon-Dowling_Mascotte_3.webp" data-height-cm="24.5"
                         data-width-cm="1.2"></div>
                     <div class="book" data-title="Poses for Fashion Illustration" data-author="Womens Edition"
                         data-publisher="Womens Edition" data-year="2019" data-image="src/Libreria/Scatola.webp"

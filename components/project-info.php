@@ -85,7 +85,7 @@ $project = array(
                                  L\'intento era quello di alterare la percezione del film, enfatizzando gli aspetti inquietanti e drammatici attraverso un montaggio diverso. Sono state modificate scene specifiche, come ad esempio una scena di sesso, che, se montata in modo diverso, acquisisce una connotazione più horror. Inoltre, sono stati utilizzati effetti sonori e tracce musicali differenti per creare una crescente tensione e suspense, trasformando completamente l\'atmosfera del film.',
         /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
         /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                   <video poster="src/Projects/Altro/Titanic/Video/Copertina.png" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Altro/Titanic/Video/Titanic_16-9.webm" alt="Titanic-horror">Your browser does not support the video tag.</video>
+                                   <video poster="src/Projects/Altro/Titanic/Video/Copertina.pngwebp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Altro/Titanic/Video/Titanic_16-9.webm" alt="Titanic-horror">Your browser does not support the video tag.</video>
                                 </div>',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Altro/Titanic/Mockup/TIT_F4_x2.webp" alt="TIT_F4_x2" loading="lazy">
@@ -187,7 +187,7 @@ $project = array(
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Packaging</a>
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
         /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                    <video poster="src/Projects/Personali/Pillole/Video/Copertina_01.jpg" controls="" controlslist="nodownload" class="media-background-image" src="src/Projects/Personali/Pillole/Video/PGD_Video_001.webm" alt="PGD_Video_001">Your browser does not support the video tag.</video>
+                                    <video poster="src/Projects/Personali/pillole/Video/Copertina_01.webp" controls="" controlslist="nodownload" class="media-background-image" src="src/Projects/Personali/pillole/Video/PGD_Video_001.webm" alt="PGD_Video_001">Your browser does not support the video tag.</video>
                                  </div>',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_1.webp" alt="Pillole_1" loading="lazy">
@@ -329,31 +329,31 @@ $project = array(
                                     <a href="#" class="btn disabled link-opacity-50-hover mt-2">Editoria</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Screenshot/PIP_Copertina_001.webp" alt="PIP_Copertina_001" loading="lazy">
+                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Copertina_001.webp" alt="PIP_Copertina_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Screenshot/PIP_Copertina_002.webp" alt="PIP_Copertina_002" loading="lazy">
+                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Copertina_002.webp" alt="PIP_Copertina_002" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Screenshot/PIP_Secondo_Dessert_001.webp" alt="PIP_Secondo_Dessert_001" loading="lazy">
+                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Secondo_Dessert_001.webp" alt="PIP_Secondo_Dessert_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Screenshot/PIP_Dessert-aperto_001.webp" alt="PIP_Dessert-aperto_001" loading="lazy">
+                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Dessert-aperto_001.webp" alt="PIP_Dessert-aperto_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img id="P" class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Mockup/PIP_Antipasto_001.webp" alt="PIP_Antipasto_001" loading="lazy">
+                                    <img id="P" class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Antipasto_001.webp" alt="PIP_Antipasto_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Mockup/PIP_Primo_001.webp" alt="PIP_Primo_001" loading="lazy">
+                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Primo_001.webp" alt="PIP_Primo_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Mockup/PIP_Secondo_001.webp" alt="PIP_Secondo_001" loading="lazy">
+                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Secondo_001.webp" alt="PIP_Secondo_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Mockup/PIP_Dessert_001.webp" alt="PIP_Dessert_001" loading="lazy">
+                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Dessert_001.webp" alt="PIP_Dessert_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Pronto-in-pagina/Screenshot/PIP_Retro.webp" alt="PIP_Retro" loading="lazy">
+                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Retro.webp" alt="PIP_Retro" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project.php?id=sperimentazione-3d"',
         /*7 NEXT PROJECT P */   'Sperimentazione 3D',
@@ -413,7 +413,7 @@ $project = array(
                                 <a href="#" class="btn disabled link-opacity-50-hover mt-2">Editoria</a>
                                 <a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
     /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                <video poster="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.png" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webm" alt="Minimalism-maximalism_0">Your browser does not support the video tag.</video>
+                                <video poster="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webm" alt="Minimalism-maximalism_0">Your browser does not support the video tag.</video>
                              </div>',
     /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
                                 <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_1.webp" alt="Minimalism-maximalism_1" loading="lazy">

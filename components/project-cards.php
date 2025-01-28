@@ -25,7 +25,7 @@
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
-                    src="src/Projects/Personali/Less-is-more_More-is-more/Screenshot/Minimalism-maximalism_1.webp"
+                    src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_1.webp"
                     alt="Minimalism-maximalism_1" loading="lazy">
             </div>
             <div class="card-body">

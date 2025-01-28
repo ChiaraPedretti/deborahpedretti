@@ -8,7 +8,7 @@
 <footer>
     <div class="container-fluid mt-5 mb-5">
         <hr class="mt-5 mb-5">
-        <h2 id="h2-upper ">Contatti</h2>
+        <h2 id="h2-upper">Contatti</h2>
         <h3><a href="mailto:deborahpedretti.tiff@gmail.com" class="text-decoration-none color-gray" target="_blank">deborahpedretti.tiff@gmail.com</a></h3>
         <div class="d-flex flex-wrap justify-content-between mt-3">
             <div class="d-inline">
