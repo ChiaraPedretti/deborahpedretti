@@ -15,6 +15,9 @@
     <link rel="stylesheet" href="https://unpkg.com/lenis@1.1.16/dist/lenis.css">
     <!-- ANIM PAGINA -->
     <link rel="stylesheet" href="css/anim-pagina.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+    </style>
 </head>
 <style>
     /* Animazione titoli scorrevoli */

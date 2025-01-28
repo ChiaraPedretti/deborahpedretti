@@ -16,6 +16,9 @@
     <!-- INIZIO SMOOTH SCROLL -->
     <link rel="stylesheet" href="https://unpkg.com/lenis@1.1.16/dist/lenis.css">
     <!-- FINE SMOOTH SCROLL -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+    </style>
 </head>
 
 <body>

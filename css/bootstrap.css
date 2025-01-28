@@ -14,7 +14,7 @@
 /* Headings */
 
 @font-face {
-    font-family: 'Satoshi';
+    font-family: 'Satoshi, sans-serif';
     src: url('fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Regular.otf') format('otf'),
          url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('ttf'),
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff') format('woff'),
