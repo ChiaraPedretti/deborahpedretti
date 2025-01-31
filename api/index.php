@@ -76,7 +76,7 @@
                 Ho maturato la mia esperienza professionale prevalentemente nel settore della moda e del graphic design.
                 Questo percorso mi ha permesso di sviluppare una spiccata sensibilità estetica e un approccio versatile,
                 con una particolare attenzione ai dettagli.
-                <a href="about.php">
+                <a href="about">
                     <img class="circle-about" src="src/Icons/Arrow-right.svg" alt="Arrow-right">
                 </a>
             </h2>
