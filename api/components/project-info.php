@@ -85,7 +85,7 @@ $project = array(
                                  L\'intento era quello di alterare la percezione del film, enfatizzando gli aspetti inquietanti e drammatici attraverso un montaggio diverso. Sono state modificate scene specifiche, come ad esempio una scena di sesso, che, se montata in modo diverso, acquisisce una connotazione più horror. Inoltre, sono stati utilizzati effetti sonori e tracce musicali differenti per creare una crescente tensione e suspense, trasformando completamente l\'atmosfera del film.',
         /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
         /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                   <video poster="src/Projects/Altro/Titanic/Video/Copertina.pngwebp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Altro/Titanic/Video/Titanic_16-9.webm" alt="Titanic-horror">Your browser does not support the video tag.</video>
+                                   <video poster="src/Projects/Altro/Titanic/Video/Copertina.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Altro/Titanic/Video/Titanic_16-9.webm" alt="Titanic-horror">Your browser does not support the video tag.</video>
                                 </div>',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Altro/Titanic/Mockup/TIT_F4_x2.webp" alt="TIT_F4_x2" loading="lazy">
