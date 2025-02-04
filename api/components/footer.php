@@ -15,7 +15,9 @@
                 <a class="btn" href="https://www.instagram.com/urlababurla/" target="_blank">Instagram</a>
                 <a class="btn" href="https://www.linkedin.com/in/deborah-pedretti-795491345/" target="_blank">Linkedin</a>
             </div>
-            <p>©2025 Deborah Pedretti</p>
+            <div class="mt-3">
+                <p>©2025 Deborah Pedretti</p>
+            </div>
         </div>
         
     </div>
