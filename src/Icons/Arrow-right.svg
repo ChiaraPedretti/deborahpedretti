@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
-  <g id="Raggruppa_46" data-name="Raggruppa 46" transform="translate(-34 -1439)">
-    <g id="Raggruppa_45" data-name="Raggruppa 45" transform="translate(-380.5 -806.903)">
-      <line id="Linea_13" data-name="Linea 13" x2="32.589" transform="translate(415.5 2263.309)" fill="none" stroke="#181817" stroke-width="2"/>
-      <path id="Tracciato_2" data-name="Tracciato 2" d="M2192.674,2249.5c0,12.2,13.989,12.586,13.989,12.586s-13.989.607-13.989,12.586" transform="translate(-1757.193 1.403)" fill="none" stroke="#181817" stroke-width="2"/>
-    </g>
-    <rect id="Rettangolo_16" data-name="Rettangolo 16" width="36" height="36" transform="translate(34 1439)" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="25.103" height="25.172" viewBox="0 0 25.103 25.172">
+  <g id="Raggruppa_45" data-name="Raggruppa 45" transform="translate(-424.485 -2250.903)">
+    <line id="Linea_13" data-name="Linea 13" x2="23.604" transform="translate(424.485 2263.309)" fill="none" stroke="#181817" stroke-width="2"/>
+    <path id="Tracciato_2" data-name="Tracciato 2" d="M2192.674,2249.5c0,10.927,13.989,12.586,13.989,12.586s-13.989.868-13.989,12.586" transform="translate(-1757.193 1.403)" fill="none" stroke="#181817" stroke-width="2"/>
   </g>
 </svg>
