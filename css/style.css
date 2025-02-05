@@ -56,8 +56,8 @@ img.icon-large {
 .reading-progress-bar {
     height: 15px;
     background-color: #8d26cd;
-    animation-name: width;
-    animation-timeline: scroll(y);
+    width: 0%; /* Inizialmente a 0 */
+    transition: width 0.1s linear; /* Aggiunge un'animazione fluida */
 }
 
 @keyframes width {
@@ -150,6 +150,10 @@ html.w-editor [text-split] {
     width: 20px;
     height: 20px;
     transform: translate(-50%, -50%) scale(1.2);
+}
+
+.no-custom-cursor .custom-cursor { /* NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
+    display: none;
 }
 
 video:hover{

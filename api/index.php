@@ -52,8 +52,8 @@
     <?php include_once('components/cursor.php'); ?>
     <?php include_once('components/nav.php'); ?>
     <header>
+    <h1 id="h1-width" class="text-center">Deborah Pedretti</h1>
         <div class="container-fluid">
-            <h1 id="h1-width" class="text-center">Deborah Pedretti</h1>
             <div class="wrapper">
                 <div class="marquee">
                     <h2 class="h3">• Branding&nbsp;• Logo&nbsp;• Advertising&nbsp;• Campagne istituzionali&nbsp;• Montaggio

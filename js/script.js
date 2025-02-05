@@ -104,3 +104,29 @@ function updateCursor() {
 // Avvia l'animazione del cursore
 updateCursor();
 /* FINE CURSORE */
+
+/* INIZIO - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
+function isTouchDevice() {
+    return 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+  }
+  
+  if (isTouchDevice()) {
+    document.body.classList.add("no-custom-cursor");
+  }
+  
+/* FINE - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
+
+/* INIZIO - PROGRESS BAR ANIMATION */
+document.addEventListener("DOMContentLoaded", function () {
+    let progressBar = document.querySelector(".reading-progress-bar");
+
+    function updateProgressBar() {
+        let scrollTop = window.scrollY;
+        let documentHeight = document.documentElement.scrollHeight - window.innerHeight;
+        let progress = (scrollTop / documentHeight) * 100;
+        progressBar.style.width = progress + "%";
+    }
+
+    window.addEventListener("scroll", updateProgressBar);
+});
+/* FINE - PROGRESS BAR ANIMATION */
