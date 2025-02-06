@@ -73,7 +73,7 @@
     <section id="Intro-about">
         <div class="container-fluid">
             <h3 class="lead mt-5 mb-3">About</h3>
-            <h2 text-split words-slide-from-right style="line-height: 1.1" class="none">
+            <h2 text-split words-slide-from-right style="line-height: 1.1!important;">
                 Il mio nome è Deborah Pedretti e sono una graphic designer.
                 Ho maturato la mia esperienza professionale prevalentemente nel settore della moda e del graphic design.
                 Questo percorso mi ha permesso di sviluppare una spiccata sensibilità estetica e un approccio versatile,
