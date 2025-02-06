@@ -19,6 +19,7 @@ h2{font-family: "DM Sans", serif; font-weight: 500; font-size: 3.125em; line-hei
 h3{font-family: "DM Sans", serif; font-weight: 500; font-size: 1.875em;} 
 h4{font-family: "Hanken Grotesk", sans-serif; font-size: 1.25em;} 
 p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
+h2.none{line-height: none;}
 
 .btn{
     border-radius: 50px; 
