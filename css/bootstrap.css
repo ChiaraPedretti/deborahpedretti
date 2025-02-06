@@ -14,7 +14,7 @@
 /* Headings */
 
 @font-face {
-    font-family: "Satoshi-Regular", sans-serif;
+    font-family: 'Satoshi-Regular';
     src: url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff2') format('woff2'),
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff') format('woff'),
          url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('truetype'),
@@ -22,11 +22,11 @@
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.eot') format('embedded-opentype');
     font-weight: 400;
     font-style: normal;
-    font-display: swap;
+    /*font-display: swap;*/
 }
 
 @font-face {
-    font-family: "Satoshi-Medium", sans-serif;
+    font-family: 'Satoshi-Medium';
     src: url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.woff2') format('woff2'),
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.woff') format('woff'),
          url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('truetype'),
@@ -34,11 +34,11 @@
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.eot') format('embedded-opentype');
     font-weight: 500;
     font-style: normal;
-    font-display: swap;
+    /*font-display: swap;*/
 }
 
 @font-face {
-    font-family: "Satoshi-Bold", sans-serif;
+    font-family: 'Satoshi-Bold';
     src: url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.woff2') format('woff2'),
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.woff') format('woff'),
          url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('truetype'),
@@ -46,16 +46,16 @@
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.eot') format('embedded-opentype');
     font-weight: 700;
     font-style: normal;
-    font-display: swap;
+    /*font-display: swap;*/
 }
 
-#h1-width{font-family: "Satoshi-Medium", sans-serif; font-weight: 500; text-transform: uppercase; font-size: 9.6vw;}
-.h1{font-family: "Satoshi-Bold", sans-serif; font-weight: 700; font-size: 6.25em;}
-h2{font-family: "Satoshi-Medium", sans-serif; font-weight: 500; font-size: 3.125em /*50px*/; line-height: 1.1 !important;}
-.h3{font-family: "Satoshi-Medium", sans-serif; font-weight: 500; font-size: 1.875em /*30px*/;} 
-h3{font-family: "Satoshi-Medium", sans-serif; font-weight: 500; font-size: 1.875em /*30px*/;} 
-h4{font-family: "Hanken Grotesk", sans-serif; font-size: 1.25em /*20px*/;} 
-p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
+#h1-width{font-family: "Satoshi-Medium"; font-weight: 500; text-transform: uppercase; font-size: 9.6vw;}
+.h1{font-family: "Satoshi-Bold"; font-weight: 700; font-size: 6.25em;}
+h2{font-family: "Satoshi-Medium"; font-weight: 500; font-size: 3.125em /*50px*/; line-height: 1.1 !important;}
+.h3{font-family: "Satoshi-Medium"; font-weight: 500; font-size: 1.875em /*30px*/;} 
+h3{font-family: "Satoshi-Medium"; font-weight: 500; font-size: 1.875em /*30px*/;} 
+h4{font-family: "Hanken Grotesk"; font-size: 1.25em /*20px*/;} 
+p{font-family: "Hanken Grotesk"; font-size: 1em; color: #6d6d6d;}
 
 .btn{
     border-radius: 50px; 
