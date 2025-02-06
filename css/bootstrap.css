@@ -12,7 +12,7 @@
 .container-fluid {width: 95.278vw !important;}
 
 /* Headings */
-#h1-width{font-family: "DM Sans", serif; font-weight: 500; text-transform: uppercase; font-size: 11vw;}
+#h1-width{font-family: "DM Sans", serif; font-weight: 500; text-transform: uppercase; font-size: 11vw !important;}
 .h1{font-family: "DM Sans", serif; font-weight: 700; font-size: 6.25em;}
 h2{font-family: "DM Sans", serif; font-weight: 500; font-size: 3.125em; line-height: 1.3 !important;}
 .h3{font-family: "DM Sans", serif; font-weight: 500; font-size: 1.875em;} 
@@ -45,7 +45,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
 @media (max-width: 576px) {
     /*#h1-width{ font-size: 9.2vw; white-space: nowrap}*/
     .h1{font-size: 2.5em; line-height: 1.1;}
-    h2{font-size: 1.8em /*35px*/ !important; line-height: 1.1 !important;}
+    h2{font-size: 1.8em /*35px*/ !important;}
     h3{font-size: 1.375em /*22px*/ ;}
     .h3{font-size: 1.375em /*22px*/ ;} 
     h4{font-size: 1.1em /*18px*/ ;}
@@ -57,7 +57,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
 @media (min-width: 576px) {
     /*#h1-width{font-size: 9.549vw; white-space: nowrap}*/
     .h1{font-size: 4em;}
-    h2{font-size: 2.1em /*40px*/; line-height: 1.2 !important;}
+    h2{font-size: 2.1em /*40px*/;}
     h3{font-size: 1.5em /*24px*/;}
     .h3{font-size: 1.5em /*24px*/;} 
     h4{font-size: 1.2em /*18px*/;}
@@ -69,7 +69,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
 @media (min-width: 768px) {
     /*#h1-width{font-size: 9.4vw; white-space: nowrap}*/
     .h1{font-size: 4em;}
-    h2{font-size: 2.3em /*40px*/; line-height: 1.1 !important;}
+    h2{font-size: 2.3em /*40px*/;}
     h3{font-size: 1.563em /*25px*/;}
     .h3{font-size: 1.563em /*25px*/ ;}
     h4{font-size: 1.125em /*18px*/;}
@@ -81,7 +81,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
 @media (min-width: 992px) {
     /*#h1-width{font-size: 9.6vw; white-space: nowrap}*/
     .h1{font-size: 5em;}
-    h2{font-size: 2.5em /*50px*/; line-height: 1.1 !important;}
+    h2{font-size: 2.5em /*50px*/;}
     h3{font-size: 1.875em /*30px*/ ;}
     .h3{font-size: 1.875em /*30px*/;} 
     h4{font-size: 1.25em /*20px*/;}
@@ -92,7 +92,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
 @media (min-width: 1200px) {
     /*#h1-width{font-size: 9.6vw; white-space: nowrap}*/
     .h1{font-size: 5.625em;}
-    h2{font-size: 2.8em /*50px*/; line-height: 1.1 !important;}
+    h2{font-size: 2.8em /*50px*/;}
     h3{font-size: 1.875em /*30px*/;}
     .h3{font-size: 1.875em /*30px*/;} 
     h4{font-size: 1.25em /*20px*/;}
@@ -103,7 +103,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
 @media (min-width: 1400px) {
    /*#h1-width{font-size: 9.6vw; white-space: nowrap}*/
     .h1{font-size: 6.25em;}
-    h2{font-size: 3em /*50px*/; line-height: 1.1 !important;}
+    h2{font-size: 3em /*50px*/;}
     h3{font-size: 1.875em /*30px*/;} 
     .h3{font-size: 1.875em /*30px*/ }
     h4{font-size: 1.25em /*20px*/ ;}
