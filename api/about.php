@@ -8,6 +8,7 @@
     <meta name="description"
         content="Contatta Deborah Pedretti, graphic designer specializzata in moda e design. Per collaborazioni e progetti creativi." />
     <title>Deborah Pedretti | About</title>
+    <link rel="icon" href="src/Icons/X-icon.svg" type="image/x-icon" sizes="16x16">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
