@@ -15,33 +15,33 @@
 
 @font-face {
     font-family: "Satoshi-Regular";
-    src: url('fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Regular.otf') format('otf'),
-         url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('ttf'),
+    src: url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff2') format('woff2'),
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff') format('woff'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff2') format('woff2'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.eot') format('eot');
+         url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('truetype'),
+         url('fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Regular.otf') format('opentype'),
+         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.eot') format('embedded-opentype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Satoshi-Medium";
-    src: url('fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Medium.otf') format('otf'),
-         url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('ttf'),
+    src: url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.woff2') format('woff2'),
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.woff') format('woff'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.woff2') format('woff2'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.eot') format('eot');
+         url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('truetype'),
+         url('fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Medium.otf') format('opentype'),
+         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.eot') format('embedded-opentype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Satoshi-Bold";
-    src: url('fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Bold.otf') format('otf'),
-         url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('ttf'),
+    src: url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.woff2') format('woff2'),
          url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.woff') format('woff'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.woff2') format('woff2'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.eot') format('eot');
+         url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('truetype'),
+         url('fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Bold.otf') format('opentype'),
+         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.eot') format('embedded-opentype');
     font-weight: 700;
     font-style: normal;
 }
