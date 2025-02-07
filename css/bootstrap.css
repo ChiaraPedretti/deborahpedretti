@@ -9,6 +9,10 @@
 }
 .navbar-toggler[aria-expanded="true"] {transform: rotate(180deg);}
 
+.navbar-nav{
+    align-items: flex-end;
+}
+
 .container-fluid {width: 95.278vw !important;}
 
 /* Headings */
