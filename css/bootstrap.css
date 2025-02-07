@@ -50,7 +50,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
     .h3{font-size: 1.375em /*22px*/ ;} 
     h4{font-size: 1.1em /*18px*/ ;}
     .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
-    .navbar-expand-lg{padding-bottom: 40px;} 
+    .navbar-expand-lg{padding-bottom: 40px;  margin-top: 20px!important;} 
 }
 
 /* Small devices (landscape phones, 576px and up)*/
@@ -62,7 +62,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
     .h3{font-size: 1.5em /*24px*/;} 
     h4{font-size: 1.2em /*18px*/;}
     .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
-    .navbar-expand-lg{padding-bottom: 40px;} 
+    .navbar-expand-lg{padding-bottom: 40px; margin-top: 20px!important;} 
 }
 
 /* Medium devices (tablets, 768px and up)*/
@@ -74,7 +74,7 @@ p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
     .h3{font-size: 1.563em /*25px*/ ;}
     h4{font-size: 1.125em /*18px*/;}
     .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
-    .navbar-expand-lg{padding-bottom: 40px;} 
+    .navbar-expand-lg{padding-bottom: 40px; margin-top: 20px!important;} 
 }
 
 /* Large devices (desktops, 992px and up)*/
