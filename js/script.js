@@ -106,42 +106,34 @@ updateCursor();
 /* FINE CURSORE */
 
 /* INIZIO - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
-function detectInputMethod() {
+document.addEventListener("DOMContentLoaded", function () {
     const body = document.body;
-    let isTouchDevice = false;
-    let isMouseUsed = false;
+    let hasMouse = false;
+    let isTouch = false;
 
-    // Controlla se il dispositivo è touch (più preciso)
-    function checkIfTouch() {
-        return (
-            'ontouchstart' in window || 
-            navigator.maxTouchPoints > 0 || 
-            navigator.msMaxTouchPoints > 0
-        );
+    function setTouchMode() {
+        isTouch = true;
+        body.classList.add("no-custom-cursor"); // Nasconde il cursore
     }
 
-    if (checkIfTouch()) {
-        isTouchDevice = true;
-        body.classList.add("no-custom-cursor"); // Nasconde il cursore per dispositivi touch
+    function setMouseMode() {
+        if (!isTouch) {
+            hasMouse = true;
+            body.classList.remove("no-custom-cursor"); // Mostra il cursore solo se non è un dispositivo touch
+        }
     }
 
-    // Se il dispositivo supporta sia mouse che touch (ibrido)
-    window.addEventListener("mousemove", () => {
-        if (isTouchDevice) {
-            body.classList.remove("no-custom-cursor"); // Mostra il cursore se viene usato il mouse
-            isMouseUsed = true;
-        }
-    });
+    // Controlla se il dispositivo è touch all'avvio
+    if ("ontouchstart" in window || navigator.maxTouchPoints > 0) {
+        setTouchMode();
+    }
 
-    window.addEventListener("touchstart", () => {
-        if (isMouseUsed) {
-            body.classList.add("no-custom-cursor"); // Nasconde il cursore se viene usato il touch
-        }
-    });
-}
+    // Se viene rilevato un movimento del mouse → attiva modalità mouse
+    window.addEventListener("mousemove", setMouseMode, { once: true });
 
-// Esegui la funzione all'avvio
-document.addEventListener("DOMContentLoaded", detectInputMethod);
+    // Se viene rilevato un tocco → forza la modalità touch
+    window.addEventListener("touchstart", setTouchMode, { passive: true });
+});
 
 /* FINE - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
 
