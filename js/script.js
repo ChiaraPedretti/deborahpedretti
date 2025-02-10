@@ -106,14 +106,30 @@ updateCursor();
 /* FINE CURSORE */
 
 /* INIZIO - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
-function isTouchDevice() {
-    return 'ontouchstart' in window || navigator.maxTouchPoints > 0;
-  }
-  
-  if (isTouchDevice()) {
-    document.body.classList.add("no-custom-cursor");
-  }
-  
+function updateCursorVisibility() {
+    const body = document.body;
+    
+    // Rileva se il dispositivo ha touch
+    const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+
+    if (isTouch) {
+        body.classList.add("no-custom-cursor"); // Nasconde il cursore personalizzato
+    }
+
+    // Rileva se l'utente usa il mouse
+    window.addEventListener("mousemove", () => {
+        body.classList.remove("no-custom-cursor"); // Mostra il cursore se si muove il mouse
+    });
+
+    // Rileva se l'utente usa il touchscreen
+    window.addEventListener("touchstart", () => {
+        body.classList.add("no-custom-cursor"); // Nasconde il cursore se tocca lo schermo
+    });
+}
+
+// Chiama la funzione all'avvio
+updateCursorVisibility();
+
 /* FINE - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
 
 /* INIZIO - PROGRESS BAR ANIMATION */
