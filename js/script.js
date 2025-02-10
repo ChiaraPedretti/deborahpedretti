@@ -106,29 +106,34 @@ updateCursor();
 /* FINE CURSORE */
 
 /* INIZIO - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
-function updateCursorVisibility() {
+function detectInputMethod() {
     const body = document.body;
-    
-    // Rileva se il dispositivo ha touch
-    const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+    let isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+    let isMouseUsed = false;
 
-    if (isTouch) {
-        body.classList.add("no-custom-cursor"); // Nasconde il cursore personalizzato
+    if (isTouchDevice) {
+        body.classList.add("no-custom-cursor"); // Nascondi il cursore per dispositivi touch
+    } else {
+        body.classList.remove("no-custom-cursor"); // Mostra il cursore per dispositivi solo mouse
     }
 
-    // Rileva se l'utente usa il mouse
+    // Se il dispositivo supporta sia touch che mouse (ibrido)
     window.addEventListener("mousemove", () => {
-        body.classList.remove("no-custom-cursor"); // Mostra il cursore se si muove il mouse
+        if (isTouchDevice) {
+            body.classList.remove("no-custom-cursor"); // Mostra il cursore se il mouse viene mosso
+            isMouseUsed = true;
+        }
     });
 
-    // Rileva se l'utente usa il touchscreen
     window.addEventListener("touchstart", () => {
-        body.classList.add("no-custom-cursor"); // Nasconde il cursore se tocca lo schermo
+        if (isMouseUsed) {
+            body.classList.add("no-custom-cursor"); // Nasconde il cursore se viene usato il touch
+        }
     });
 }
 
 // Chiama la funzione all'avvio
-updateCursorVisibility();
+detectInputMethod();
 
 /* FINE - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
 
