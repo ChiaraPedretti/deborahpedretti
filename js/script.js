@@ -108,19 +108,27 @@ updateCursor();
 /* INIZIO - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
 function detectInputMethod() {
     const body = document.body;
-    let isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+    let isTouchDevice = false;
     let isMouseUsed = false;
 
-    if (isTouchDevice) {
-        body.classList.add("no-custom-cursor"); // Nascondi il cursore per dispositivi touch
-    } else {
-        body.classList.remove("no-custom-cursor"); // Mostra il cursore per dispositivi solo mouse
+    // Controlla se il dispositivo è touch (più preciso)
+    function checkIfTouch() {
+        return (
+            'ontouchstart' in window || 
+            navigator.maxTouchPoints > 0 || 
+            navigator.msMaxTouchPoints > 0
+        );
     }
 
-    // Se il dispositivo supporta sia touch che mouse (ibrido)
+    if (checkIfTouch()) {
+        isTouchDevice = true;
+        body.classList.add("no-custom-cursor"); // Nasconde il cursore per dispositivi touch
+    }
+
+    // Se il dispositivo supporta sia mouse che touch (ibrido)
     window.addEventListener("mousemove", () => {
         if (isTouchDevice) {
-            body.classList.remove("no-custom-cursor"); // Mostra il cursore se il mouse viene mosso
+            body.classList.remove("no-custom-cursor"); // Mostra il cursore se viene usato il mouse
             isMouseUsed = true;
         }
     });
@@ -132,8 +140,8 @@ function detectInputMethod() {
     });
 }
 
-// Chiama la funzione all'avvio
-detectInputMethod();
+// Esegui la funzione all'avvio
+document.addEventListener("DOMContentLoaded", detectInputMethod);
 
 /* FINE - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
 
