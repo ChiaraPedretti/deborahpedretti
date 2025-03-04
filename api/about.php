@@ -68,6 +68,16 @@
                 </div>
                 <div class="row mt-3">
                     <div class="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-12">
+                        <h3>2025</h3>
+                        <p>LAC, Lugano</p>
+                    </div>
+                    <div class="col-xxl-4 col-xl-6 col-lg-5 col-md-8 col-sm-12">
+                        <p>Lugano arte e cultura (LAC). <br>
+                        Stage presso l'area brand, digital e comunicazione.</p>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-12">
                         <h3>2024</h3>
                         <p>Freelance</p>
                     </div>
