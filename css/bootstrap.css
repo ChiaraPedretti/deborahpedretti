@@ -9,107 +9,108 @@
 }
 .navbar-toggler[aria-expanded="true"] {transform: rotate(180deg);}
 
+.navbar-nav{
+    align-items: flex-end;
+}
+
 .container-fluid {width: 95.278vw !important;}
 
 /* Headings */
+#h1-width{font-family: "DM Sans", serif; font-weight: 500; text-transform: uppercase; font-size: 11vw !important;}
+.h1{font-family: "DM Sans", serif; font-weight: 700; font-size: 6.25em;}
+h2{font-family: "DM Sans", serif; font-weight: 500; font-size: 3.125em; line-height: 1.3;}
+.h3{font-family: "DM Sans", serif; font-weight: 500; font-size: 1.875em;} 
+h3{font-family: "DM Sans", serif; font-weight: 500; font-size: 1.875em;} 
+h4{font-family: "Hanken Grotesk", sans-serif; font-size: 1.25em;} 
+p{font-family: "Hanken Grotesk", sans-serif; font-size: 1em; color: #6d6d6d;}
 
-@font-face {
-    font-family: 'Satoshi, sans-serif';
-    src: url('fonts/Satoshi_Complete/Fonts/OTF/Satoshi-Regular.otf') format('otf'),
-         url('fonts/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('ttf'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff') format('woff'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff2') format('woff2'),
-         url('fonts/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.eot') format('eot');
-    font-weight: normal;
-    font-style: normal;
-  }
-  
-#h1-width{font-family: "Satoshi", sans-serif !important; font-weight: medium; text-transform: uppercase; font-size: 9.6vw;}
-.h1{font-family: "Satoshi", sans-serif !important; font-weight: bold; font-size: 6.25em !important;}
-h2{font-family: "Satoshi", sans-serif !important; font-weight: medium; font-size: 3.125em /*50px*/ !important; line-height: 1.1 !important;}
-.h3{font-family: "Satoshi", sans-serif !important; font-weight: medium; font-size: 1.875em /*30px*/ !important;} 
-h3{font-family: "Satoshi", sans-serif !important; font-weight: medium; font-size: 1.875em /*30px*/ !important;} 
-h4{font-family: "Hanken Grotesk", serif; font-size: 1.25em /*20px*/ !important;} 
-p{font-family: "Hanken Grotesk", serif; font-size: 1em !important; color: #6d6d6d;}
 
 .btn{
-    border-radius: 50px !important; 
+    border-radius: 50px; 
     background-color: white; 
     margin-right: 5px; 
     border: 1px solid!important;
     color: #6d6d6d;
 }
-.btn:hover{background-color:#cfcfcf!important}
-.active{color: black !important; border: 1px solid black !important;}
-.nav-link{border: 0px !important;}
+.btn:hover{background-color:#cfcfcf}
+.active{color: black; border: 1px solid black;}
+.nav-link{border: 0px;}
 .overflow-x-scroll{scrollbar-width: none;}
-.carousel-item{border: 0px !important;}
+.carousel-item{border: 0px;}
+.sticky-top{z-index: 0;}
+
+#h1-width {
+    font-size: 9.5vw; /* Scala in base alla larghezza dello schermo */
+    white-space: nowrap;
+    overflow: hidden; /* Evita che il testo esca dai margini */
+    max-width: 100%; /* Impedisce di superare il contenitore */
+}
 
 /* Small devices (landscape phones, 576px and up)*/
 @media (max-width: 576px) {
-    #h1-width{ font-size: 9.2vw; white-space: nowrap}
-    .h1{font-size: 3.5em !important; line-height: 1.1 !important;}
-    h2{font-size: 1.8em /*35px*/ !important; line-height: 1.1 !important;}
-    h3{font-size: 1.375em /*22px*/ !important;}
-    .h3{font-size: 1.375em /*22px*/ !important;} 
-    h4{font-size: 1.1em /*18px*/ !important;}
+    /*#h1-width{ font-size: 9.2vw; white-space: nowrap}*/
+    .h1{font-size: 2.5em; line-height: 1.1;}
+    h2{font-size: 1.8em /*35px*/ !important;}
+    h3{font-size: 1.375em /*22px*/ ;}
+    .h3{font-size: 1.375em /*22px*/ ;} 
+    h4{font-size: 1.1em /*18px*/ ;}
     .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
-    .navbar-expand-lg{padding-bottom: 40px;} 
+    .navbar-expand-lg{padding-bottom: 40px;  margin-top: 20px!important;} 
 }
 
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
-    #h1-width{font-size: 9.549vw; white-space: nowrap}
-    .h1{font-size: 5em !important;}
-    h2{font-size: 2.1em /*40px*/ !important; line-height: 1.2 !important;}
-    h3{font-size: 1.5em /*24px*/ !important;}
-    .h3{font-size: 1.5em /*24px*/ !important;} 
-    h4{font-size: 1.2em /*18px*/ !important;}
+    /*#h1-width{font-size: 9.549vw; white-space: nowrap}*/
+    .h1{font-size: 4em;}
+    h2{font-size: 2.1em /*40px*/;}
+    h3{font-size: 1.5em /*24px*/;}
+    .h3{font-size: 1.5em /*24px*/;} 
+    h4{font-size: 1.2em /*18px*/;}
     .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
-    .navbar-expand-lg{padding-bottom: 40px;} 
+    .navbar-expand-lg{padding-bottom: 40px; margin-top: 20px!important;} 
 }
 
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
-    #h1-width{font-size: 9.4vw; white-space: nowrap}
-    .h1{font-size: 5em !important;}
-    h2{font-size: 2.3em /*40px*/ !important; line-height: 1.1 !important;}
-    h3{font-size: 1.563em /*25px*/ !important;}
-    .h3{font-size: 1.563em /*25px*/ !important;}
-    h4{font-size: 1.125em /*18px*/ !important;}
+    /*#h1-width{font-size: 9.4vw; white-space: nowrap}*/
+    .h1{font-size: 4em;}
+    h2{font-size: 2.3em /*40px*/;}
+    h3{font-size: 1.563em /*25px*/;}
+    .h3{font-size: 1.563em /*25px*/ ;}
+    h4{font-size: 1.125em /*18px*/;}
     .nav-link{font-size: 1.375em; /*22px*/padding-top: 15px;}
-    .navbar-expand-lg{padding-bottom: 40px;} 
+    .navbar-expand-lg{padding-bottom: 40px; margin-top: 20px!important;} 
 }
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
-    #h1-width{font-size: 9.6vw; white-space: nowrap}
-    .h1{font-size: 5em !important;}
-    h2{font-size: 2.5em /*50px*/ !important; line-height: 1.1 !important;}
-    h3{font-size: 1.875em /*30px*/ !important;}
-    .h3{font-size: 1.875em /*30px*/ !important;} 
-    h4{font-size: 1.25em /*20px*/ !important;}
+    /*#h1-width{font-size: 9.6vw; white-space: nowrap}*/
+    .h1{font-size: 5em;}
+    h2{font-size: 2.5em /*50px*/;}
+    h3{font-size: 1.875em /*30px*/ ;}
+    .h3{font-size: 1.875em /*30px*/;} 
+    h4{font-size: 1.25em /*20px*/;}
     .nav-link{font-size: 1em;} 
 }
 
 /* X-Large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
-    #h1-width{font-size: 9.6vw; white-space: nowrap}
-    .h1{font-size: 5.625em !important;}
-    h2{font-size: 2.8em /*50px*/ !important; line-height: 1.1 !important;}
-    h3{font-size: 1.875em /*30px*/ !important;}
-    .h3{font-size: 1.875em /*30px*/ !important;} 
-    h4{font-size: 1.25em /*20px*/ !important;}
+    /*#h1-width{font-size: 9.6vw; white-space: nowrap}*/
+    .h1{font-size: 5.625em;}
+    h2{font-size: 2.8em /*50px*/;}
+    h3{font-size: 1.875em /*30px*/;}
+    .h3{font-size: 1.875em /*30px*/;} 
+    h4{font-size: 1.25em /*20px*/;}
     .nav-link{font-size: 1em;}  
 }
 
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1400px) {
-    #h1-width{font-size: 9.6vw; white-space: nowrap}
-    .h1{font-size: 6.25em !important;}
-    h2{font-size: 3em /*50px*/ !important; line-height: 1.1 !important;}
-    h3{font-size: 1.875em /*30px*/ !important;} 
-    .h3{font-size: 1.875em /*30px*/ !important;}
-    h4{font-size: 1.25em /*20px*/ !important;}
+   /*#h1-width{font-size: 9.6vw; white-space: nowrap}*/
+    .h1{font-size: 6.25em;}
+    h2{font-size: 3em /*50px*/;}
+    h3{font-size: 1.875em /*30px*/;} 
+    .h3{font-size: 1.875em /*30px*/ }
+    h4{font-size: 1.25em /*20px*/ ;}
     .nav-link{font-size: 1em;}  
 }

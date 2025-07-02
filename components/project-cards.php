@@ -1,5 +1,24 @@
 <!-- IN ORDINE DA PROGETTO NUOVO A VECCHIO!!! -->
 
+<!-- ISPA -->
+<div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
+    <a class="link-underline link-underline-opacity-0" href="project.php?id=ISPA">
+        <div class="card rounded-0 border-0">
+            <div class="media-background-holder quattro-terzi">
+                <img class="media-background-image animated"
+                    src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Teatro_001.webp"
+                    alt="ISP_Teatro_001" loading="lazy">
+            </div>
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <h4 class="card-title">ISPA Lugano Congress 2025</h4>
+                    <img class="icon" src="src/Icons/Arrow.svg" alt="Arrow">
+                </div>
+                <p class="card-category commissionati branding">Commissionati, branding</p>
+            </div>
+        </div>
+    </a>
+</div>
 <!-- Village 037 -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
     <a class="link-underline link-underline-opacity-0" href="project.php?id=village-037">

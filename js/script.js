@@ -104,3 +104,45 @@ function updateCursor() {
 // Avvia l'animazione del cursore
 updateCursor();
 /* FINE CURSORE */
+
+/* INIZIO - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
+function updateCursorVisibility() {
+    const body = document.body;
+    
+    // Rileva se il dispositivo ha touch
+    const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+
+    if (isTouch) {
+        body.classList.add("no-custom-cursor"); // Nasconde il cursore personalizzato
+    }
+
+    // Rileva se l'utente usa il mouse
+    window.addEventListener("mousemove", () => {
+        body.classList.remove("no-custom-cursor"); // Mostra il cursore se si muove il mouse
+    });
+
+    // Rileva se l'utente usa il touchscreen
+    window.addEventListener("touchstart", () => {
+        body.classList.add("no-custom-cursor"); // Nasconde il cursore se tocca lo schermo
+    });
+}
+
+// Chiama la funzione all'avvio
+updateCursorVisibility();
+
+/* FINE - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
+
+/* INIZIO - PROGRESS BAR ANIMATION */
+document.addEventListener("DOMContentLoaded", function () {
+    let progressBar = document.querySelector(".reading-progress-bar");
+
+    function updateProgressBar() {
+        let scrollTop = window.scrollY;
+        let documentHeight = document.documentElement.scrollHeight - window.innerHeight;
+        let progress = (scrollTop / documentHeight) * 100;
+        progressBar.style.width = progress + "%";
+    }
+
+    window.addEventListener("scroll", updateProgressBar);
+});
+/* FINE - PROGRESS BAR ANIMATION */

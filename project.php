@@ -34,9 +34,12 @@
         echo $project[12][1];
     } else if ($_GET["id"] == "village-037") {
         echo $project[13][1];
+    } else if ($_GET["id"] == "ISPA") {
+        echo $project[14][1];
     } ?>" />
 
     <title>Deborah Pedretti | Detail</title>
+    <link rel="icon" href="src/Icons/X-icon.svg" type="image/x-icon" sizes="16x16">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -45,6 +48,7 @@
     <!-- FINE SMOOTH SCROLL -->
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
     </style>
 </head>
 
@@ -86,6 +90,8 @@
                             echo $project[12][0];
                         } else if ($_GET["id"] == "village-037") {
                             echo $project[13][0];
+                        } else if ($_GET["id"] == "ISPA") {
+                            echo $project[14][0];
                         }
 
                         ?>
@@ -100,7 +106,7 @@
             <div class="row">
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12">
                     <div class="sticky-top pt-5">
-                        <h3>Categoria</h3>
+                        <h3>Categoria:</h3>
                         <?php //Categorie
                         if ($_GET["id"] == "luci-e-ombre") {
                             echo $project[0][3];
@@ -130,6 +136,8 @@
                             echo $project[12][3];
                         } else if ($_GET["id"] == "village-037") {
                             echo $project[13][3];
+                        } else if ($_GET["id"] == "ISPA") {
+                            echo $project[14][3];
                         }
                         ?>
                         <div class="d-flex align-items-baseline mt-5">
@@ -164,6 +172,8 @@
                                     echo $project[12][8];
                                 } else if ($_GET["id"] == "village-037") {
                                     echo $project[13][8];
+                                } else if ($_GET["id"] == "ISPA") {
+                                    echo $project[14][8];
                                 }
                                 ?>
                             </h3>
@@ -200,6 +210,8 @@
                                     echo $project[12][9];
                                 } else if ($_GET["id"] == "village-037") {
                                     echo $project[13][9];
+                                } else if ($_GET["id"] == "ISPA") {
+                                    echo $project[14][9];
                                 }
                                 ?>
                             </h3>
@@ -242,6 +254,8 @@
                             echo $project[12][1];
                         } else if ($_GET["id"] == "village-037") {
                             echo $project[13][1];
+                        } else if ($_GET["id"] == "ISPA") {
+                            echo $project[14][1];
                         }
                         ?>
                     </h2>
@@ -277,6 +291,8 @@
                                     echo $project[12][2];
                                 } else if ($_GET["id"] == "village-037") {
                                     echo $project[13][2];
+                                } else if ($_GET["id"] == "ISPA") {
+                                    echo $project[14][2];
                                 }
                                 ?>
                             </p>
@@ -312,6 +328,8 @@
                         echo $project[12][4];
                     } else if ($_GET["id"] == "village-037") {
                         echo $project[13][4];
+                    } else if ($_GET["id"] == "ISPA") {
+                        echo $project[14][4];
                     }
                     ?>
                     <?php //Immagini
@@ -343,6 +361,8 @@
                         echo $project[12][5];
                     } else if ($_GET["id"] == "village-037") {
                         echo $project[13][5];
+                    } else if ($_GET["id"] == "ISPA") {
+                        echo $project[14][5];
                     }
                     ?>
                     <div class="col mt-5">
@@ -376,6 +396,8 @@
                                 echo $project[12][6];
                             } else if ($_GET["id"] == "village-037") {
                                 echo $project[13][6];
+                            } else if ($_GET["id"] == "ISPA") {
+                                echo $project[14][6];
                             }
                             ?>>
                                 <div class="d-flex justify-content-end">
@@ -412,6 +434,8 @@
                                         echo $project[12][7];
                                     } else if ($_GET["id"] == "village-037") {
                                         echo $project[13][7];
+                                    } else if ($_GET["id"] == "ISPA") {
+                                        echo $project[14][7];
                                     }
                                     ?>
                                 </p>

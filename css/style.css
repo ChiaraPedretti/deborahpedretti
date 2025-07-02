@@ -56,8 +56,8 @@ img.icon-large {
 .reading-progress-bar {
     height: 15px;
     background-color: #8d26cd;
-    animation-name: width;
-    animation-timeline: scroll(y);
+    width: 0%; /* Inizialmente a 0 */
+    transition: width 0.1s linear; /* Aggiunge un'animazione fluida */
 }
 
 @keyframes width {
@@ -152,6 +152,11 @@ html.w-editor [text-split] {
     transform: translate(-50%, -50%) scale(1.2);
 }
 
+
+.no-custom-cursor .custom-cursor { /* NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
+    display: none;
+}
+
 video:hover{
     cursor: default!important;
 }
@@ -159,16 +164,36 @@ video:hover{
 .divide {column-count: 2;}
 
 .color-gray{
-    color: #b8b8b8;;
+    color: #b8b8b8;
 }
 .flex-wrap{
     flex-wrap: wrap;
 }
 
-/* Small devices (landscape phones, 576px and up)*/
+/* INIZIO ANIMAZIONE LOGO */
+img.logo{
+    animation: logoAnimation 1s ease-in-out;
+}
+
+@keyframes logoAnimation {
+    0% {
+        transform: scale(0.5) rotate(0deg);
+        opacity: 0;
+    }
+    80% {
+        transform: scale(1.1) rotate(180deg);
+    }
+    100% {
+        transform: scale(1) rotate(180deg);
+        opacity: 1;
+    }
+    
+}
+/* FINE ANIMAZIONE LOGO */
+
 @media (max-width: 576px) {
     .divide {column-count: 1 !important;}
-    img.logo { width: 50px;}
+    img.logo { width: 50px; }
 }
 
 /* Small devices (landscape phones, 576px and up)*/

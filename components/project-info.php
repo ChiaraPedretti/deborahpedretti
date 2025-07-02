@@ -448,7 +448,8 @@ $project = array(
         /*1 SOTTOTITOLO */      'San Martino 2024',
         /*2 DESCRIZIONE */      'Village_037 è stato concepito come brand per un’associazione presente a San Martino 2024, che ha scelto di non utilizzare il suo nome ufficiale. Il nome Village_037 deriva dallo slot numerico assegnato all’associazione, il numero 037. A partire da questo concetto, è stato sviluppato un logotipo che richiama l’idea di un villaggio, con un focus sull’elemento centrale, la lettera “A”, utilizzato per creare un pattern distintivo all’interno dell’identità visiva.
                                  Successivamente sono stati scelti i colori sulle tonalità del verde e del marrone per richiamare la natura e l’atmosfera della fiera di San Martino. Gli artefatti sviluppati spaziano da un serie di poster, listini prezzi, volantini informativi, cartellonistica e promozioni.',
-        /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Commissionati</a>',
+        /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Commissionati</a> 
+                                 <a href="#" class="btn disabled link-opacity-50-hover mt-2">Branding</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '
                                  <div class="media-background-holder quattro-terzi mt-5">
@@ -474,5 +475,67 @@ $project = array(
         /*8 ANNO */             '2024',
         /*9 Tipologia */        'Commissionato',
     ),
+
+    //14 - ISPA
+    array(
+      /*0 TITOLO */           'ISPA Lugano Congress 2025',
+      /*1 SOTTOTITOLO */      'International Society for the Performing Arts',
+      /*2 DESCRIZIONE */      'L’edizione 2025 del congresso ISPA – International Society for the Performing Arts, evento che riunisce i leader mondiali nell’ambito delle arti performative, si è svolta presso il LAC di Lugano. Ma di cosa si tratta? ISPA è una rete globale che, due volte l’anno, organizza congressi volti a promuovere il dialogo, la collaborazione e lo sviluppo strategico nel settore delle arti performative. L’edizione 2025 ha posto l’attenzione sul ruolo delle arti come agente di cambiamento in un contesto mondiale sempre più complesso e globalizzato.
+                              <br>
+                               Per l’occasione è stata progettata e curata l’intera linea grafica dell’evento, sviluppando un branding coerente e versatile, declinato su diversi supporti: banner, ledwall, e-programma, slide di supporto alle sessioni principalmente tenutesi in sala teatro, contenuti per Instagram, campagna LinkedIn, cover per il podcast con le interviste agli esperti e molto altro ancora.',
+      /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Commissionati</a>
+                               <a href="#" class="btn disabled link-opacity-50-hover mt-2">Branding</a>',
+      /*4 VIDEO */            '',
+      /*5 IMMAGINE */         '
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Teatro_001.webp" alt="ISP_Teatro_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Slide_001.webp" alt="ISP_Slide_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Hall_001.webp" alt="ISP_Hall_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Hall_002.webp" alt="ISP_Hall_002" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Totem_Splash-screen_001.webp" alt="ISP_Totem_Splash-screen_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Totem_Splash-screen_002.webp" alt="ISP_Totem_Splash-screen_002" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Night_001.webp" alt="ISP_Night_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Night_002.webp" alt="ISP_Night_002" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Segnaletica_001.webp" alt="ISP_Segnaletica_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Teatro_002.webp" alt="ISP_Teatro_002" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Sala-1_001.webp" alt="ISP_Sala-1_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_E-program_001.webp" alt="ISP_E-program_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Post_001.webp" alt="ISP_Post_001" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Post_002.webp" alt="ISP_Post_002" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Podcast_001.webp" alt="ISP_Podcast_001" loading="lazy">
+                               </div>',
+      /*6 NEXT PROJECT A */   'href="project.php?id=village-037"',
+      /*7 NEXT PROJECT P */   'Village_037',
+      /*8 ANNO */             '2025',
+      /*9 Tipologia */        'Commissionato',
+  ),
 )
 ?>

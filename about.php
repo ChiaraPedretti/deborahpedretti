@@ -8,6 +8,7 @@
     <meta name="description"
         content="Contatta Deborah Pedretti, graphic designer specializzata in moda e design. Per collaborazioni e progetti creativi." />
     <title>Deborah Pedretti | About</title>
+    <link rel="icon" href="src/Icons/X-icon.svg" type="image/x-icon" sizes="16x16">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -18,6 +19,7 @@
     <!-- FINE SMOOTH SCROLL -->
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
     </style>
 </head>
 
@@ -63,6 +65,16 @@
             <div class="row">
                 <div class="col">
                     <h2 class="mt-5 mb-3">Esperienze</h2>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-12">
+                        <h3>2025</h3>
+                        <p>LAC, Lugano</p>
+                    </div>
+                    <div class="col-xxl-4 col-xl-6 col-lg-5 col-md-8 col-sm-12">
+                        <p>Lugano arte e cultura (LAC). <br>
+                        Stage presso l'area brand, digital e comunicazione.</p>
+                    </div>
                 </div>
                 <div class="row mt-3">
                     <div class="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-12">
