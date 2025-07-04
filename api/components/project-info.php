@@ -11,13 +11,13 @@ $project = array(
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Sperimentazione</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                   <img class="media-background-image" src="src/Projects/Altro/Luci-e-ombre/Luci-e-ombre_1.webp" alt="Luci-e-ombre_1 loading="lazy"">
+                                   <img class="media-background-image" src="../src/Projects/Altro/Luci-e-ombre/Luci-e-ombre_1.webp" alt="Luci-e-ombre_1 loading="lazy"">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                   <img class="media-background-image" src="src/Projects/Altro/Luci-e-ombre/Luci-e-ombre_2.webp" alt="Luci-e-ombre_2" loading="lazy">
+                                   <img class="media-background-image" src="../src/Projects/Altro/Luci-e-ombre/Luci-e-ombre_2.webp" alt="Luci-e-ombre_2" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                   <img class="media-background-image" src="src/Projects/Altro/Luci-e-ombre/Luci-e-ombre_3.webp" alt="Luci-e-ombre_3" loading="lazy">
+                                   <img class="media-background-image" src="../src/Projects/Altro/Luci-e-ombre/Luci-e-ombre_3.webp" alt="Luci-e-ombre_3" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="index"',
         /*7 NEXT PROJECT P */   'Ritorna alla home',
@@ -35,16 +35,16 @@ $project = array(
         /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Branding</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5  border border-1">
-                                    <img class="media-background-image" src="src/Projects/Branding/Auth/Screenshot/Auth-79_1.webp" alt="Auth-79_1" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Auth/Screenshot/Auth-79_1.webp" alt="Auth-79_1" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Branding/Auth/Screenshot/Auth-79_2.webp" alt="Auth-79_2" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Auth/Screenshot/Auth-79_2.webp" alt="Auth-79_2" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Branding/Auth/Screenshot/AUT_Banner_002.webp" alt="AUT_Banner_002" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Auth/Screenshot/AUT_Banner_002.webp" alt="AUT_Banner_002" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Branding/Auth/Mockup/AUT_Banner_001.webp" alt="AUT_Banner_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Auth/Mockup/AUT_Banner_001.webp" alt="AUT_Banner_001" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=luci-e-ombre"',
         /*7 NEXT PROJECT P */   'Luci e ombre',
@@ -60,16 +60,16 @@ $project = array(
         /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Grafica</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_001.webp" alt="Sovracoperta_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_001.webp" alt="Sovracoperta_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_002.webp" alt="Sovracoperta_002" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_002.webp" alt="Sovracoperta_002" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_003.webp" alt="Sovracoperta_003" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_003.webp" alt="Sovracoperta_003" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_004.webp" alt="Sovracoperta_004" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_004.webp" alt="Sovracoperta_004" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=auth-79"',
         /*7 NEXT PROJECT P */   'AuTh 79',
@@ -85,13 +85,13 @@ $project = array(
                                  L\'intento era quello di alterare la percezione del film, enfatizzando gli aspetti inquietanti e drammatici attraverso un montaggio diverso. Sono state modificate scene specifiche, come ad esempio una scena di sesso, che, se montata in modo diverso, acquisisce una connotazione più horror. Inoltre, sono stati utilizzati effetti sonori e tracce musicali differenti per creare una crescente tensione e suspense, trasformando completamente l\'atmosfera del film.',
         /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
         /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                   <video preload="none" poster="src/Projects/Altro/Titanic/Video/Copertina.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Altro/Titanic/Video/Titanic_16-9.webm" alt="Titanic-horror">Your browser does not support the video tag.</video>
+                                   <video preload="none" poster="src/Projects/Altro/Titanic/Video/Copertina.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="../src/Projects/Altro/Titanic/Video/Titanic_16-9.webm" alt="Titanic-horror">Your browser does not support the video tag.</video>
                                 </div>',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Altro/Titanic/Mockup/TIT_F4_x2.webp" alt="TIT_F4_x2" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Altro/Titanic/Mockup/TIT_F4_x2.webp" alt="TIT_F4_x2" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Altro/Titanic/Mockup/TIT_F4_001.webp" alt="TIT_F4_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Altro/Titanic/Mockup/TIT_F4_001.webp" alt="TIT_F4_001" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=sovracoperta"',
         /*7 NEXT PROJECT P */   'Calendario annuale eventi artistici Svizzera Italia',
@@ -109,25 +109,25 @@ $project = array(
         /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Personale</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_001.webp" alt="Layers_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_001.webp" alt="Layers_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Lab-riserva/layers/Screenshot/Layers_Dettaglio_001.webp" alt="Layers_Dettaglio_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/Lab-riserva/layers/Screenshot/Layers_Dettaglio_001.webp" alt="Layers_Dettaglio_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Lab-riserva/layers/Screenshot/Layers_Dettaglio_002.webp" alt="Layers_Dettaglio_002" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/Lab-riserva/layers/Screenshot/Layers_Dettaglio_002.webp" alt="Layers_Dettaglio_002" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_1.webp" alt="Layers_Istruzioni_1" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_1.webp" alt="Layers_Istruzioni_1" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_2.webp" alt="Layers_Istruzioni_2" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_2.webp" alt="Layers_Istruzioni_2" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_3.webp" alt="Layers_Istruzioni_3" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_3.webp" alt="Layers_Istruzioni_3" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_4.webp" alt="Layers_Istruzioni_4" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_4.webp" alt="Layers_Istruzioni_4" loading="lazy">
                                  </div>
                                  ',
         /*6 NEXT PROJECT A */   'href="project?id=trailer-titanic"',
@@ -147,28 +147,28 @@ $project = array(
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Sperimentazione</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_001.webp" alt="Sperimentazione-tipografica_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_001.webp" alt="Sperimentazione-tipografica_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_002.webp" alt="Sperimentazione-tipografica_002" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_002.webp" alt="Sperimentazione-tipografica_002" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_003.webp" alt="Sperimentazione-tipografica_003" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_003.webp" alt="Sperimentazione-tipografica_003" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_004.webp" alt="Sperimentazione-tipografica_004" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_004.webp" alt="Sperimentazione-tipografica_004" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_005.webp" alt="Sperimentazione-tipografica_005" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_005.webp" alt="Sperimentazione-tipografica_005" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_006.webp" alt="Sperimentazione-tipografica_006" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_006.webp" alt="Sperimentazione-tipografica_006" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_007.webp" alt="Sperimentazione-tipografica_007" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_007.webp" alt="Sperimentazione-tipografica_007" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_008.webp" alt="Sperimentazione-tipografica_008" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_008.webp" alt="Sperimentazione-tipografica_008" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=layers"',
         /*7 NEXT PROJECT P */   'Layers',
@@ -187,25 +187,25 @@ $project = array(
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Packaging</a>
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
         /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                    <video preload="none" poster="src/Projects/Personali/pillole/Video/Copertina_01.webp" controls="" controlslist="nodownload" class="media-background-image" src="src/Projects/Personali/pillole/Video/PGD_Video_001.webm" alt="PGD_Video_001">Your browser does not support the video tag.</video>
+                                    <video preload="none" poster="src/Projects/Personali/pillole/Video/Copertina_01.webp" controls="" controlslist="nodownload" class="media-background-image" src="../src/Projects/Personali/pillole/Video/PGD_Video_001.webm" alt="PGD_Video_001">Your browser does not support the video tag.</video>
                                  </div>',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_1.webp" alt="Pillole_1" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pillole/Screenshot/Pillole_1.webp" alt="Pillole_1" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_2.webp" alt="Pillole_2" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pillole/Screenshot/Pillole_2.webp" alt="Pillole_2" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_3.webp" alt="Pillole_3" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pillole/Screenshot/Pillole_3.webp" alt="Pillole_3" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_4.webp" alt="Pillole_4" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pillole/Screenshot/Pillole_4.webp" alt="Pillole_4" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_5.webp" alt="Pillole_5" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pillole/Screenshot/Pillole_5.webp" alt="Pillole_5" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_6.webp" alt="Pillole_6" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pillole/Screenshot/Pillole_6.webp" alt="Pillole_6" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=sperimentazione-tipografica"',
         /*7 NEXT PROJECT P */   'Sperimentazione tipografica',
@@ -223,22 +223,22 @@ $project = array(
         /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Grafica</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Poster-SUPSI/Screenshot/SUP_F4_001.webp" alt="SUP_F4_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Poster-SUPSI/Screenshot/SUP_F4_001.webp" alt="SUP_F4_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Poster-SUPSI/Mockup/SUP_F4_001.webp" alt="SUP_F4_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Poster-SUPSI/Mockup/SUP_F4_001.webp" alt="SUP_F4_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Poster-SUPSI/Mockup/SUP_F12_001.webp" alt="SUP_F12_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Poster-SUPSI/Mockup/SUP_F12_001.webp" alt="SUP_F12_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Poster-SUPSI/Mockup/SUP_F4_004.webp" alt="SUP_F4_004" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Poster-SUPSI/Mockup/SUP_F4_004.webp" alt="SUP_F4_004" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Poster-SUPSI/Screenshot/SUP_Pieghevole_001.webp" alt="SUP_Pieghevole_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Poster-SUPSI/Screenshot/SUP_Pieghevole_001.webp" alt="SUP_Pieghevole_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Grafica/Poster-SUPSI/Screenshot/SUP_Segnalibro_001.webp" alt="SUP_Segnalibro_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Grafica/Poster-SUPSI/Screenshot/SUP_Segnalibro_001.webp" alt="SUP_Segnalibro_001" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=pillole-sul-graphic-design"',
         /*7 NEXT PROJECT P */   'Pillole sul Graphic Design',
@@ -259,31 +259,31 @@ $project = array(
                                     <a href="#" class="btn disabled link-opacity-50-hover mt-2">Packaging</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Screenshot/Copertina.webp" alt="Copertina" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Screenshot/Copertina.webp" alt="Copertina" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Screenshot/SLP_Carosello.001.webp" alt="SLP_Carosello.002" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Screenshot/SLP_Carosello.001.webp" alt="SLP_Carosello.002" loading="lazy">
                                  </div> 
                                  <div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Mockup/SLP_Landing-page-slurp-farm.webp" alt="SLP_Landing-page-slurp_farm" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Mockup/SLP_Landing-page-slurp-farm.webp" alt="SLP_Landing-page-slurp_farm" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Mockup/SLP_Slurp-farm-mobile.webp" alt="SLP_Slurp-farm-mobile" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Mockup/SLP_Slurp-farm-mobile.webp" alt="SLP_Slurp-farm-mobile" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Mockup/SLP_Cart-mappetta.webp" alt="SLP_Cart-mappetta" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Mockup/SLP_Cart-mappetta.webp" alt="SLP_Cart-mappetta" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Mockup/SLP_Mappetta_001.webp" alt="SLP_Mappetta_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Mockup/SLP_Mappetta_001.webp" alt="SLP_Mappetta_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Mockup/SLP_Fogli_001.webp" alt="SLP_Fogli_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Mockup/SLP_Fogli_001.webp" alt="SLP_Fogli_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Mockup/SLP_Gadjet_001.webp" alt="SLP_Gadjet_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Mockup/SLP_Gadjet_001.webp" alt="SLP_Gadjet_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5 ">
-                                    <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Mockup/SLP_Advertising_001.webp" alt="SLP_Advertising_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Branding/Slurp-farm/Mockup/SLP_Advertising_001.webp" alt="SLP_Advertising_001" loading="lazy">
                                  </div>
                                 ',
         /*6 NEXT PROJECT A */   'href="project?id=manifesti-supsi"',
@@ -301,16 +301,16 @@ $project = array(
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Sperimentazione</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Altro/Blender/Screenshot/BLD_Stay-bold-completo.webp" alt="BLD_Stay-bold-complet" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Altro/Blender/Screenshot/BLD_Stay-bold-completo.webp" alt="BLD_Stay-bold-complet" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Altro/Blender/Mockup/BLD_Desktop_Corso_001.webp" alt="BLD_Desktop_Corso_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Altro/Blender/Mockup/BLD_Desktop_Corso_001.webp" alt="BLD_Desktop_Corso_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Altro/Blender/Mockup/BLD_Smartphone_Corso_001.webp" alt="BLD_Smartphone_Corso_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Altro/Blender/Mockup/BLD_Smartphone_Corso_001.webp" alt="BLD_Smartphone_Corso_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Altro/Blender/Mockup/BLD_Smartphone_Corso_002.webp" alt="BLD_Smartphone_Corso_002" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Altro/Blender/Mockup/BLD_Smartphone_Corso_002.webp" alt="BLD_Smartphone_Corso_002" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=slurp-farm"',
         /*7 NEXT PROJECT P */   'Slurp Farm',
@@ -329,31 +329,31 @@ $project = array(
                                     <a href="#" class="btn disabled link-opacity-50-hover mt-2">Editoria</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Copertina_001.webp" alt="PIP_Copertina_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Copertina_001.webp" alt="PIP_Copertina_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Copertina_002.webp" alt="PIP_Copertina_002" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Copertina_002.webp" alt="PIP_Copertina_002" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Secondo_Dessert_001.webp" alt="PIP_Secondo_Dessert_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Secondo_Dessert_001.webp" alt="PIP_Secondo_Dessert_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Dessert-aperto_001.webp" alt="PIP_Dessert-aperto_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Dessert-aperto_001.webp" alt="PIP_Dessert-aperto_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img id="P" class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Antipasto_001.webp" alt="PIP_Antipasto_001" loading="lazy">
+                                    <img id="P" class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Antipasto_001.webp" alt="PIP_Antipasto_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Primo_001.webp" alt="PIP_Primo_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Primo_001.webp" alt="PIP_Primo_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Secondo_001.webp" alt="PIP_Secondo_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Secondo_001.webp" alt="PIP_Secondo_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Dessert_001.webp" alt="PIP_Dessert_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Mockup/PIP_Dessert_001.webp" alt="PIP_Dessert_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Retro.webp" alt="PIP_Retro" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Retro.webp" alt="PIP_Retro" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=sperimentazione-3d"',
         /*7 NEXT PROJECT P */   'Sperimentazione 3D',
@@ -370,28 +370,28 @@ $project = array(
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Grafica</a>',
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Mockups/CAS_Flyer_Copertina-estate_001.webp" alt="CAS_Flyer_Copertina-estate_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Ca-stella/Mockups/CAS_Flyer_Copertina-estate_001.webp" alt="CAS_Flyer_Copertina-estate_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Mockups/CAS_Flyer_Estate_001.webp" alt="CAS_Flyer_Estate_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Ca-stella/Mockups/CAS_Flyer_Estate_001.webp" alt="CAS_Flyer_Estate_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Mockups/CAS_Flyer_Copertina-primavera_001.webp" alt="CAS_Flyer_Copertina-primavera_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Ca-stella/Mockups/CAS_Flyer_Copertina-primavera_001.webp" alt="CAS_Flyer_Copertina-primavera_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Mockups/CAS_Flyer_Primavera_001.webp" alt="CAS_Flyer_Primavera_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Ca-stella/Mockups/CAS_Flyer_Primavera_001.webp" alt="CAS_Flyer_Primavera_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Copertina-estate.webp" alt="CAS_Copertina-estate" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Copertina-estate.webp" alt="CAS_Copertina-estate" loading="lazy">
                                  </div>
                                  <div class="media-background-holder mt-5">
-                                    <img id="P" class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Estate.webp" alt="CAS_Estate" loading="lazy">
+                                    <img id="P" class="media-background-image" src="../src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Estate.webp" alt="CAS_Estate" loading="lazy">
                                  </div>
                                  <div class="media-background-holder mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Copertina-primavera.webp" alt="CAS_Copertina-primavera" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Copertina-primavera.webp" alt="CAS_Copertina-primavera" loading="lazy">
                                  </div>
                                  <div class="media-background-holder mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Primavera.webp" alt="CAS_Primavera" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Primavera.webp" alt="CAS_Primavera" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=pronto-in-pagina"',
         /*7 NEXT PROJECT P */   'Pronto in pagina',
@@ -413,28 +413,28 @@ $project = array(
                                 <a href="#" class="btn disabled link-opacity-50-hover mt-2">Editoria</a>
                                 <a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
     /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                <video preload="none" poster="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webm" alt="Minimalism-maximalism_0">Your browser does not support the video tag.</video>
+                                <video preload="none" poster="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="../src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webm" alt="Minimalism-maximalism_0">Your browser does not support the video tag.</video>
                              </div>',
     /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
-                                <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_1.webp" alt="Minimalism-maximalism_1" loading="lazy">
+                                <img class="media-background-image" src="../src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_1.webp" alt="Minimalism-maximalism_1" loading="lazy">
                              </div>
                              <div class="media-background-holder quattro-terzi mt-5">
-                                <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_2.webp" alt="Minimalism-maximalism_2" loading="lazy">
+                                <img class="media-background-image" src="../src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_2.webp" alt="Minimalism-maximalism_2" loading="lazy">
                              </div>
                              <div class="media-background-holder quattro-terzi mt-5">
-                                <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalismo-maximalismo_7.webp" alt="Minimalism-maximalism_7" loading="lazy">
+                                <img class="media-background-image" src="../src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalismo-maximalismo_7.webp" alt="Minimalism-maximalism_7" loading="lazy">
                              </div>
                              <div class="media-background-holder quattro-terzi mt-5">
-                                <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_3.webp" alt="Minimalism-maximalism_3" loading="lazy">
+                                <img class="media-background-image" src="../src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_3.webp" alt="Minimalism-maximalism_3" loading="lazy">
                              </div>
                              <div class="media-background-holder quattro-terzi mt-5">
-                                <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_4.webp" alt="Minimalism-maximalism_4" loading="lazy">
+                                <img class="media-background-image" src="../src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_4.webp" alt="Minimalism-maximalism_4" loading="lazy">
                              </div>
                              <div class="media-background-holder quattro-terzi mt-5">
-                                <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_5.webp" alt="Minimalism-maximalism_5" loading="lazy">
+                                <img class="media-background-image" src="../src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_5.webp" alt="Minimalism-maximalism_5" loading="lazy">
                              </div>
                              <div class="media-background-holder quattro-terzi mt-5">
-                                <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_6.webp" alt="Minimalism-maximalism_6" loading="lazy">
+                                <img class="media-background-image" src="../src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_6.webp" alt="Minimalism-maximalism_6" loading="lazy">
                              </div>',
     /*6 NEXT PROJECT A */   'href="project?id=ca-stella"',
     /*7 NEXT PROJECT P */   'Ca.Stella',
@@ -453,22 +453,22 @@ $project = array(
         /*4 VIDEO */            '',
         /*5 IMMAGINE */         '
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Bicchieri_001.webp" alt="VIL_Flyer_Bicchieri_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Bicchieri_001.webp" alt="VIL_Flyer_Bicchieri_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Hot-topic_001.webp" alt="VIL_Flyer_Hot-topic_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Hot-topic_001.webp" alt="VIL_Flyer_Hot-topic_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Menu-bibite_001.webp" alt="VIL_Flyer_Menu-bibite_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Menu-bibite_001.webp" alt="VIL_Flyer_Menu-bibite_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Menu-cucina_001.webp" alt="VIL_Flyer_Menu-cucina_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Menu-cucina_001.webp" alt="VIL_Flyer_Menu-cucina_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Alcol_001.webp" alt="VIL_Flyer_Alcol_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Village-037/Mockups/VIL_Flyer_Alcol_001.webp" alt="VIL_Flyer_Alcol_001" loading="lazy">
                                  </div>
                                  <div class="media-background-holder quattro-terzi mt-5">
-                                    <img class="media-background-image" src="src/Projects/Commissionati/Village-037/Mockups/VIL_Paper_Logo_001.webp" alt="VIL_Paper_Logo_001" loading="lazy">
+                                    <img class="media-background-image" src="../src/Projects/Commissionati/Village-037/Mockups/VIL_Paper_Logo_001.webp" alt="VIL_Paper_Logo_001" loading="lazy">
                                  </div>',
         /*6 NEXT PROJECT A */   'href="project?id=less-is-more_more-is-more"',
         /*7 NEXT PROJECT P */   'Less is more / More is more',
@@ -488,49 +488,49 @@ $project = array(
       /*4 VIDEO */            '',
       /*5 IMMAGINE */         '
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Teatro_001.webp" alt="ISP_Teatro_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Screenshot/ISP_Teatro_001.webp" alt="ISP_Teatro_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Slide_001.webp" alt="ISP_Slide_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Mockups/ISP_Slide_001.webp" alt="ISP_Slide_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Hall_001.webp" alt="ISP_Hall_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Screenshot/ISP_Hall_001.webp" alt="ISP_Hall_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Hall_002.webp" alt="ISP_Hall_002" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Screenshot/ISP_Hall_002.webp" alt="ISP_Hall_002" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Totem_Splash-screen_001.webp" alt="ISP_Totem_Splash-screen_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Mockups/ISP_Totem_Splash-screen_001.webp" alt="ISP_Totem_Splash-screen_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Totem_Splash-screen_002.webp" alt="ISP_Totem_Splash-screen_002" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Mockups/ISP_Totem_Splash-screen_002.webp" alt="ISP_Totem_Splash-screen_002" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Night_001.webp" alt="ISP_Night_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Screenshot/ISP_Night_001.webp" alt="ISP_Night_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Night_002.webp" alt="ISP_Night_002" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Screenshot/ISP_Night_002.webp" alt="ISP_Night_002" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Segnaletica_001.webp" alt="ISP_Segnaletica_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Mockups/ISP_Segnaletica_001.webp" alt="ISP_Segnaletica_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Teatro_002.webp" alt="ISP_Teatro_002" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Screenshot/ISP_Teatro_002.webp" alt="ISP_Teatro_002" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Screenshot/ISP_Sala-1_001.webp" alt="ISP_Sala-1_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Screenshot/ISP_Sala-1_001.webp" alt="ISP_Sala-1_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_E-program_001.webp" alt="ISP_E-program_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Mockups/ISP_E-program_001.webp" alt="ISP_E-program_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Post_001.webp" alt="ISP_Post_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Mockups/ISP_Post_001.webp" alt="ISP_Post_001" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Post_002.webp" alt="ISP_Post_002" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Mockups/ISP_Post_002.webp" alt="ISP_Post_002" loading="lazy">
                                </div>
                                <div class="media-background-holder quattro-terzi mt-5">
-                                  <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Podcast_001.webp" alt="ISP_Podcast_001" loading="lazy">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/ISPA/Mockups/ISP_Podcast_001.webp" alt="ISP_Podcast_001" loading="lazy">
                                </div>',
       /*6 NEXT PROJECT A */   'href="project?id=village-037"',
       /*7 NEXT PROJECT P */   'Village_037',

@@ -40,9 +40,9 @@
 
     <title>Deborah Pedretti | Detail</title>
     <link rel="icon" href="src/Icons/X-icon.svg" type="image/x-icon" sizes="16x16">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
     <!-- INIZIO SMOOTH SCROLL -->
     <link rel="stylesheet" href="https://unpkg.com/lenis@1.1.16/dist/lenis.css">
     <!-- FINE SMOOTH SCROLL -->
@@ -219,7 +219,7 @@
                     </div>
                     <a class="arrow-top mb-5" href="#">
                         <div class="circle">
-                            <img src="src/Icons/Arrow-top.svg" alt="Arrow-top">
+                            <img src="../src/Icons/Arrow-top.svg" alt="Arrow-top">
                         </div>
                     </a>
                 </div>
@@ -402,7 +402,7 @@
                             ?>>
                                 <div class="d-flex justify-content-end">
                                     <h3 class="text-uppercase">Prossimo progetto</h3>
-                                    <img class="icon" src="src/Icons/Arrow.svg" alt="Arrow">
+                                    <img class="icon" src="../src/Icons/Arrow.svg" alt="Arrow">
                                 </div>
                                 <p>
                                     <?php //Testo prossimo progetto
@@ -455,7 +455,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <!-- INIZIO SMOOTH SCROLL -->
     <script src="https://unpkg.com/lenis@1.1.16/dist/lenis.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="../js/script.js"></script>
     <!-- FINE SMOOTH SCROLL -->
 </body>
 

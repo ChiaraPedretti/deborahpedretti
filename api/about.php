@@ -9,11 +9,11 @@
         content="Contatta Deborah Pedretti, graphic designer specializzata in moda e design. Per collaborazioni e progetti creativi." />
     <title>Deborah Pedretti | About</title>
     <link rel="icon" href="src/Icons/X-icon.svg" type="image/x-icon" sizes="16x16">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/libreria.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
+    <link rel="stylesheet" href="../css/libreria.css">
     <!-- INIZIO SMOOTH SCROLL -->
     <link rel="stylesheet" href="https://unpkg.com/lenis@1.1.16/dist/lenis.css">
     <!-- FINE SMOOTH SCROLL -->
@@ -186,7 +186,7 @@
                         data-year="2020" data-image="src/Libreria/Riccardo-Falcinelli_Figure_3.webp"
                         data-height-cm="21" data-width-cm="3.5"></div>
                     <div class="d-block">
-                        <img src="src/Libreria/Candela.svg" width=150px alt="Candle">
+                        <img src="../src/Libreria/Candela.svg" width=150px alt="Candle">
                     </div>
                     <div class="book" data-title="Sei proprio il mio typo" data-author="Simon Garfield"
                         data-publisher="TEA" data-year="2021"
@@ -226,7 +226,7 @@
                         data-year="2021" data-image="src/Libreria/Sara-Caldas_Palette-Perfect_3.webp"
                         data-height-cm="21" data-width-cm="2.5"></div>
                     <div class="d-block">
-                        <img src="src/Libreria/Cactus.svg" width=250px alt="Cactus">
+                        <img src="../src/Libreria/Cactus.svg" width=250px alt="Cactus">
                     </div>
                     <div class="book" data-title="Typeone issue three" data-author="Typeone" data-publisher="Typeone"
                         data-year="2021" data-image="src/Libreria/Typeone-issue-three_Typeone.webp"
@@ -266,7 +266,7 @@
     <div class="container-fluid">
         <a class="arrow-top mb-5" href="#">
             <div class="circle">
-                <img src="src/Icons/Arrow-top.svg" alt="Arrow-top">
+                <img src="../src/Icons/Arrow-top.svg" alt="Arrow-top">
             </div>
         </a>
     </div>
@@ -276,9 +276,9 @@
         crossorigin="anonymous"></script>
     <!-- INIZIO SMOOTH SCROLL -->
     <script src="https://unpkg.com/lenis@1.1.16/dist/lenis.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="../js/script.js"></script>
     <!-- FINE SMOOTH SCROLL -->
-    <script src="js/libreria.js"></script>
+    <script src="../js/libreria.js"></script>
 </body>
 
 </html>

@@ -8,14 +8,14 @@
     <meta name="description" content="Deborah Pedretti - Graphic designer con esperienza nel settore moda e design." />
     <title>Deborah Pedretti</title>
     <link rel="icon" href="src/Icons/X-icon.svg" type="image/x-icon" sizes="16x16">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <!-- BOOTSTRAP -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
     <!-- SMOOTH SCROLL -->
     <link rel="stylesheet" href="https://unpkg.com/lenis@1.1.16/dist/lenis.css">
     <!-- ANIM PAGINA -->
-    <link rel="stylesheet" href="css/anim-pagina.css">
+    <link rel="stylesheet" href="../css/anim-pagina.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
@@ -79,7 +79,7 @@
                 Questo percorso mi ha permesso di sviluppare una spiccata sensibilità estetica e un approccio versatile,
                 con una particolare attenzione ai dettagli.
                 <a href="about">
-                    <img class="circle-about" src="src/Icons/Arrow-right.svg" alt="Arrow-right">
+                    <img class="circle-about" src="../src/Icons/Arrow-right.svg" alt="Arrow-right">
                 </a>
                 
             </h2>
@@ -114,7 +114,7 @@
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="card rounded-0 border-0">
                         <div class="card-body">
-                            <img class="pb-3 icon-large" src="src/Icons/Branding.svg" alt="Branding">
+                            <img class="pb-3 icon-large" src="../src/Icons/Branding.svg" alt="Branding">
                             <h4 class="card-title">Branding</h4>
                             <p class="card-text">Loghi, identità visiva, abbinamenti cromatici, font pairing,...</p>
                         </div>
@@ -123,7 +123,7 @@
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="card rounded-0 border-0">
                         <div class="card-body">
-                            <img class="pb-3 icon-large" src="src/Icons/Grafica.svg" alt="Grafica">
+                            <img class="pb-3 icon-large" src="../src/Icons/Grafica.svg" alt="Grafica">
                             <h4 class="card-title">Grafica</h4>
                             <p class="card-text">Poster, tipografia, packaging design, brochure,...</p>
                         </div>
@@ -132,7 +132,7 @@
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="card rounded-0 border-0">
                         <div class="card-body">
-                            <img class="pb-3 icon-large" src="src/Icons/Editoria.svg" alt="Editoria">
+                            <img class="pb-3 icon-large" src="../src/Icons/Editoria.svg" alt="Editoria">
                             <h4 class="card-title">Editoria</h4>
                             <p class="card-text">Cataloghi, brand manual, dossier, libri,...</p>
                         </div>
@@ -141,7 +141,7 @@
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="card rounded-0 border-0">
                         <div class="card-body">
-                            <img class="pb-3 icon-large" src="src/Icons/Marketing.svg" alt="Marketing">
+                            <img class="pb-3 icon-large" src="../src/Icons/Marketing.svg" alt="Marketing">
                             <h4 class="card-title">Marketing</h4>
                             <p class="card-text">Campagne istituzionali, advertising, storytelling,... </p>
                         </div>
@@ -150,7 +150,7 @@
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="card rounded-0 border-0">
                         <div class="card-body">
-                            <img class="pb-3 icon-large" src="src/Icons/Montaggio-video.svg" alt="Montaggio video">
+                            <img class="pb-3 icon-large" src="../src/Icons/Montaggio-video.svg" alt="Montaggio video">
                             <h4 class="card-title">Montaggio video</h4>
                             <p class="card-text">Assemblaggio clip e traccie già fornite, storytelling,...</p>
                         </div>
@@ -159,7 +159,7 @@
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="card rounded-0 border-0">
                         <div class="card-body">
-                            <img class="pb-3 icon-large" src="src/Icons/Sperimentazione.svg" alt="Sperimentazione">
+                            <img class="pb-3 icon-large" src="../src/Icons/Sperimentazione.svg" alt="Sperimentazione">
                             <h4 class="card-title">Sperimentazione</h4>
                             <p class="card-text">Tecniche varie</p>
                         </div>
@@ -178,9 +178,9 @@
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"> /*jQuery*/</script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">/*Bootstrap*/</script>
 <script src="https://unpkg.com/lenis@1.1.16/dist/lenis.min.js">/*Smooth scroll*/</script>
-<script src="js/script.js">/*Smooth scroll*/</script>
-<script src="js/filtro.js">/*Per far funzionare il filtro delle categorie*/</script>
-<script src="js/anim-pagina.js">/*Animazione cambio pagina*/</script>
+<script src="../js/script.js">/*Smooth scroll*/</script>
+<script src="../js/filtro.js">/*Per far funzionare il filtro delle categorie*/</script>
+<script src="../js/anim-pagina.js">/*Animazione cambio pagina*/</script>
 <script src="https://cdn.jsdelivr.net/gh/timothydesign/script/split-type.js">/*Trasforma il testo in span*/</script>
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js"> /*GSAP*/</script>-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/ScrollTrigger.min.js">/*Scroll Trigger*/</script>
