@@ -532,7 +532,7 @@ $project = array(
                                <div class="media-background-holder quattro-terzi mt-5">
                                   <img class="media-background-image" src="src/Projects/Commissionati/ISPA/Mockups/ISP_Podcast_001.webp" alt="ISP_Podcast_001" loading="lazy">
                                </div>',
-      /*6 NEXT PROJECT A */   'href="project.php?id=village-037"',
+      /*6 NEXT PROJECT A */   'href="project?id=village-037"',
       /*7 NEXT PROJECT P */   'Village_037',
       /*8 ANNO */             '2025',
       /*9 Tipologia */        'Commissionato',

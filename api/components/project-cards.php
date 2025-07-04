@@ -2,7 +2,7 @@
 
 <!-- ISPA -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=ISPA">
+    <a class="link-underline link-underline-opacity-0" href="project?id=ISPA">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
