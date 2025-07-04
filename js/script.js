@@ -130,6 +130,35 @@ function updateCursorVisibility() {
 // Chiama la funzione all'avvio
 updateCursorVisibility();
 
+document.addEventListener("DOMContentLoaded", function () {
+    const body = document.body;
+    let hasMouse = false;
+    let isTouch = false;
+
+    function setTouchMode() {
+        isTouch = true;
+        body.classList.add("no-custom-cursor"); // Nasconde il cursore
+    }
+
+    function setMouseMode() {
+        if (!isTouch) {
+            hasMouse = true;
+            body.classList.remove("no-custom-cursor"); // Mostra il cursore solo se non è un dispositivo touch
+        }
+    }
+
+    // Controlla se il dispositivo è touch all'avvio
+    if ("ontouchstart" in window || navigator.maxTouchPoints > 0) {
+        setTouchMode();
+    }
+
+    // Se viene rilevato un movimento del mouse → attiva modalità mouse
+    window.addEventListener("mousemove", setMouseMode, { once: true });
+
+    // Se viene rilevato un tocco → forza la modalità touch
+    window.addEventListener("touchstart", setTouchMode, { passive: true });
+});
+
 /* FINE - NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
 
 /* INIZIO - PROGRESS BAR ANIMATION */

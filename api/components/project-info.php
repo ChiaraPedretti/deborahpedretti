@@ -19,7 +19,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                    <img class="media-background-image" src="src/Projects/Altro/Luci-e-ombre/Luci-e-ombre_3.webp" alt="Luci-e-ombre_3" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="index.php"',
+        /*6 NEXT PROJECT A */   'href="index"',
         /*7 NEXT PROJECT P */   'Ritorna alla home',
         /*8 ANNO */             '2021',
         /*9 Tipologia */        'Progetto scolastico',
@@ -46,7 +46,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Branding/Auth/Mockup/AUT_Banner_001.webp" alt="AUT_Banner_001" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=luci-e-ombre"',
+        /*6 NEXT PROJECT A */   'href="project?id=luci-e-ombre"',
         /*7 NEXT PROJECT P */   'Luci e ombre',
         /*8 ANNO */             '2021',
         /*9 Tipologia */        'Progetto scolastico',
@@ -71,7 +71,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_004.webp" alt="Sovracoperta_004" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=auth-79"',
+        /*6 NEXT PROJECT A */   'href="project?id=auth-79"',
         /*7 NEXT PROJECT P */   'AuTh 79',
         /*8 ANNO */             '2021',
         /*9 Tipologia */        'Progetto scolastico',
@@ -85,7 +85,7 @@ $project = array(
                                  L\'intento era quello di alterare la percezione del film, enfatizzando gli aspetti inquietanti e drammatici attraverso un montaggio diverso. Sono state modificate scene specifiche, come ad esempio una scena di sesso, che, se montata in modo diverso, acquisisce una connotazione più horror. Inoltre, sono stati utilizzati effetti sonori e tracce musicali differenti per creare una crescente tensione e suspense, trasformando completamente l\'atmosfera del film.',
         /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
         /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                   <video poster="src/Projects/Altro/Titanic/Video/Copertina.pngwebp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Altro/Titanic/Video/Titanic_16-9.webm" alt="Titanic-horror">Your browser does not support the video tag.</video>
+                                   <video preload="none" poster="src/Projects/Altro/Titanic/Video/Copertina.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Altro/Titanic/Video/Titanic_16-9.webm" alt="Titanic-horror">Your browser does not support the video tag.</video>
                                 </div>',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Altro/Titanic/Mockup/TIT_F4_x2.webp" alt="TIT_F4_x2" loading="lazy">
@@ -93,7 +93,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Altro/Titanic/Mockup/TIT_F4_001.webp" alt="TIT_F4_001" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=sovracoperta"',
+        /*6 NEXT PROJECT A */   'href="project?id=sovracoperta"',
         /*7 NEXT PROJECT P */   'Calendario annuale eventi artistici Svizzera Italia',
         /*8 ANNO */             '2021',
         /*9 Tipologia */        'Progetto scolastico',
@@ -130,7 +130,7 @@ $project = array(
                                     <img class="media-background-image" src="src/Projects/Personali/Lab-riserva/layers/Mockup/Layers_Istruzioni_4.webp" alt="Layers_Istruzioni_4" loading="lazy">
                                  </div>
                                  ',
-        /*6 NEXT PROJECT A */   'href="project.php?id=trailer-titanic"',
+        /*6 NEXT PROJECT A */   'href="project?id=trailer-titanic"',
         /*7 NEXT PROJECT P */   'Trailer Titanic',
         /*8 ANNO */             '2022',
         /*9 Tipologia */        'Progetto personale',
@@ -170,7 +170,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Grafica/Sperimentazione-tipografica/Screenshot/Sperimentazione-tipografica_008.webp" alt="Sperimentazione-tipografica_008" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=layers"',
+        /*6 NEXT PROJECT A */   'href="project?id=layers"',
         /*7 NEXT PROJECT P */   'Layers',
         /*8 ANNO */             '2022',
         /*9 Tipologia */        'Progetto scolastico',
@@ -187,7 +187,7 @@ $project = array(
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Packaging</a>
                                  <a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
         /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                    <video poster="src/Projects/Personali/pillole/Video/Copertina_01.webp" controls="" controlslist="nodownload" class="media-background-image" src="src/Projects/Personali/pillole/Video/PGD_Video_001.webm" alt="PGD_Video_001">Your browser does not support the video tag.</video>
+                                    <video preload="none" poster="src/Projects/Personali/pillole/Video/Copertina_01.webp" controls="" controlslist="nodownload" class="media-background-image" src="src/Projects/Personali/pillole/Video/PGD_Video_001.webm" alt="PGD_Video_001">Your browser does not support the video tag.</video>
                                  </div>',
         /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_1.webp" alt="Pillole_1" loading="lazy">
@@ -207,7 +207,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Personali/pillole/Screenshot/Pillole_6.webp" alt="Pillole_6" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=sperimentazione-tipografica"',
+        /*6 NEXT PROJECT A */   'href="project?id=sperimentazione-tipografica"',
         /*7 NEXT PROJECT P */   'Sperimentazione tipografica',
         /*8 ANNO */             '2022',
         /*9 Tipologia */        'Progetto personale',
@@ -240,7 +240,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Grafica/Poster-SUPSI/Screenshot/SUP_Segnalibro_001.webp" alt="SUP_Segnalibro_001" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=pillole-sul-graphic-design"',
+        /*6 NEXT PROJECT A */   'href="project?id=pillole-sul-graphic-design"',
         /*7 NEXT PROJECT P */   'Pillole sul Graphic Design',
         /*8 ANNO */             '2023',
         /*9 Tipologia */        'Commissionato / scolastico',
@@ -286,7 +286,7 @@ $project = array(
                                     <img class="media-background-image" src="src/Projects/Branding/Slurp-farm/Mockup/SLP_Advertising_001.webp" alt="SLP_Advertising_001" loading="lazy">
                                  </div>
                                 ',
-        /*6 NEXT PROJECT A */   'href="project.php?id=manifesti-supsi"',
+        /*6 NEXT PROJECT A */   'href="project?id=manifesti-supsi"',
         /*7 NEXT PROJECT P */   'Campagna istituzionale SUPSI',
         /*8 ANNO */             '2023',
         /*9 Tipologia */        'Progetto scolastico',
@@ -312,7 +312,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Altro/Blender/Mockup/BLD_Smartphone_Corso_002.webp" alt="BLD_Smartphone_Corso_002" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=slurp-farm"',
+        /*6 NEXT PROJECT A */   'href="project?id=slurp-farm"',
         /*7 NEXT PROJECT P */   'Slurp Farm',
         /*8 ANNO */             '2023',
         /*9 Tipologia */        'Progetto scolastico',
@@ -355,7 +355,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Personali/pronto-in-pagina/Screenshot/PIP_Retro.webp" alt="PIP_Retro" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=sperimentazione-3d"',
+        /*6 NEXT PROJECT A */   'href="project?id=sperimentazione-3d"',
         /*7 NEXT PROJECT P */   'Sperimentazione 3D',
         /*8 ANNO */             '2023',
         /*9 Tipologia */        'Progetto personale',
@@ -393,7 +393,7 @@ $project = array(
                                  <div class="media-background-holder mt-5">
                                     <img class="media-background-image" src="src/Projects/Commissionati/Ca-stella/Screenshot/CAS_Primavera.webp" alt="CAS_Primavera" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=pronto-in-pagina"',
+        /*6 NEXT PROJECT A */   'href="project?id=pronto-in-pagina"',
         /*7 NEXT PROJECT P */   'Pronto in pagina',
         /*8 ANNO */             '2024',
         /*9 Tipologia */        'Commissionato',
@@ -413,7 +413,7 @@ $project = array(
                                 <a href="#" class="btn disabled link-opacity-50-hover mt-2">Editoria</a>
                                 <a href="#" class="btn disabled link-opacity-50-hover mt-2">Montaggio video</a>',
     /*4 VIDEO */            '<div class="media-background-holder sedici-noni mt-5">
-                                <video poster="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webm" alt="Minimalism-maximalism_0">Your browser does not support the video tag.</video>
+                                <video preload="none" poster="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webp" controls="" controlslist="nodownload" class="media-background-image border border-1 border-secondary-subtle" src="src/Projects/Personali/Less-is-more_more-is-more/Video/Minimalism-maximalism_0.webm" alt="Minimalism-maximalism_0">Your browser does not support the video tag.</video>
                              </div>',
     /*5 IMMAGINE */         '<div class="media-background-holder quattro-terzi mt-5">
                                 <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_1.webp" alt="Minimalism-maximalism_1" loading="lazy">
@@ -436,7 +436,7 @@ $project = array(
                              <div class="media-background-holder quattro-terzi mt-5">
                                 <img class="media-background-image" src="src/Projects/Personali/Less-is-more_more-is-more/Screenshot/Minimalism-maximalism_6.webp" alt="Minimalism-maximalism_6" loading="lazy">
                              </div>',
-    /*6 NEXT PROJECT A */   'href="project.php?id=ca-stella"',
+    /*6 NEXT PROJECT A */   'href="project?id=ca-stella"',
     /*7 NEXT PROJECT P */   'Ca.Stella',
     /*8 ANNO */             '2024',
     /*9 Tipologia */        'Tesi di Bachelor',
@@ -470,7 +470,7 @@ $project = array(
                                  <div class="media-background-holder quattro-terzi mt-5">
                                     <img class="media-background-image" src="src/Projects/Commissionati/Village-037/Mockups/VIL_Paper_Logo_001.webp" alt="VIL_Paper_Logo_001" loading="lazy">
                                  </div>',
-        /*6 NEXT PROJECT A */   'href="project.php?id=less-is-more_more-is-more"',
+        /*6 NEXT PROJECT A */   'href="project?id=less-is-more_more-is-more"',
         /*7 NEXT PROJECT P */   'Less is more / More is more',
         /*8 ANNO */             '2024',
         /*9 Tipologia */        'Commissionato',

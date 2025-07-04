@@ -21,7 +21,7 @@
 </div>
 <!-- Village 037 -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=village-037">
+    <a class="link-underline link-underline-opacity-0" href="project?id=village-037">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
@@ -40,7 +40,7 @@
 </div>
 <!-- Less is more / more is more -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=less-is-more_more-is-more">
+    <a class="link-underline link-underline-opacity-0" href="project?id=less-is-more_more-is-more">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
@@ -59,7 +59,7 @@
 </div>
 <!-- Ca.Stella -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=ca-stella">
+    <a class="link-underline link-underline-opacity-0" href="project?id=ca-stella">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
@@ -78,7 +78,7 @@
 </div>
 <!-- Pronto in pagina -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=pronto-in-pagina">
+    <a class="link-underline link-underline-opacity-0" href="project?id=pronto-in-pagina">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
@@ -97,7 +97,7 @@
 </div>
 <!-- Sperimentazione 3D -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=sperimentazione-3d">
+    <a class="link-underline link-underline-opacity-0" href="project?id=sperimentazione-3d">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated" src="src/Projects/Altro/Blender/Mockup/BLD_Desktop_Corso_001.webp"
@@ -115,7 +115,7 @@
 </div>
 <!-- Slurp farm -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=slurp-farm">
+    <a class="link-underline link-underline-opacity-0" href="project?id=slurp-farm">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated" src="src/Projects/Branding/Slurp-farm/Screenshot/Copertina.webp"
@@ -133,7 +133,7 @@
 </div>
 <!-- Manifesti SUPSI -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=manifesti-supsi">
+    <a class="link-underline link-underline-opacity-0" href="project?id=manifesti-supsi">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated" src="src/Projects/Grafica/Poster-SUPSI/Mockup/SUP_F4_001.webp"
@@ -151,7 +151,7 @@
 </div>
 <!-- Pillole sul graphic design -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=pillole-sul-graphic-design">
+    <a class="link-underline link-underline-opacity-0" href="project?id=pillole-sul-graphic-design">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated" src="src/Projects/Personali/pillole/Screenshot/Pillole_6.webp" alt="Pillole_6">
@@ -168,7 +168,7 @@
 </div>
 <!-- Sperimentazione tipografica -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=sperimentazione-tipografica">
+    <a class="link-underline link-underline-opacity-0" href="project?id=sperimentazione-tipografica">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
@@ -187,7 +187,7 @@
 </div>
 <!-- Layers-->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=layers">
+    <a class="link-underline link-underline-opacity-0" href="project?id=layers">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
@@ -205,7 +205,7 @@
 </div>
 <!-- Titanic -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=trailer-titanic">
+    <a class="link-underline link-underline-opacity-0" href="project?id=trailer-titanic">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated"
@@ -224,7 +224,7 @@
 </div>
 <!-- Sovracoperta -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=sovracoperta">
+    <a class="link-underline link-underline-opacity-0" href="project?id=sovracoperta">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated" src="src/Projects/Grafica/Sovracoperta/Mockup/Sovracoperta_001.webp"
@@ -242,7 +242,7 @@
 </div>
 <!-- AuTh 79 -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=auth-79">
+    <a class="link-underline link-underline-opacity-0" href="project?id=auth-79">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated" src="src/Projects/Branding/Auth/Mockup/AUT_Banner_001.webp"
@@ -260,7 +260,7 @@
 </div>
 <!-- Luci e ombre -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-    <a class="link-underline link-underline-opacity-0" href="project.php?id=luci-e-ombre">
+    <a class="link-underline link-underline-opacity-0" href="project?id=luci-e-ombre">
         <div class="card rounded-0 border-0">
             <div class="media-background-holder quattro-terzi">
                 <img class="media-background-image animated" src="src/Projects/Altro/Luci-e-ombre/Luci-e-ombre_3.webp"

@@ -155,6 +155,8 @@ html.w-editor [text-split] {
 
 .no-custom-cursor .custom-cursor { /* NASCONDERE IL CURSORE SU I DISPOSITIVI TOUCH */
     display: none;
+    display: none!important;
+    pointer-events: none;
 }
 
 video:hover{
@@ -191,6 +193,7 @@ img.logo{
 }
 /* FINE ANIMAZIONE LOGO */
 
+/* Small devices (landscape phones, 576px and up)*/
 @media (max-width: 576px) {
     .divide {column-count: 1 !important;}
     img.logo { width: 50px; }
