@@ -537,5 +537,106 @@ $project = array(
       /*8 ANNO */             '2025',
       /*9 Tipologia */        'Commissionato',
   ),
+
+   //15 - LEPA
+    array(
+      /*0 TITOLO */           'LAC en plein air',
+      /*1 SOTTOTITOLO */      'Estate 2025',
+      /*2 DESCRIZIONE */      'Giunta al suo ottavo anno di vita, LAC en plein air torna ad animare le lunghe e calde serate del mese di luglio e lo fa proponendo dieci concerti di musica jazz, Blues e world music, di cui sono protagonisti artisti ed ensemble di origini e culture diverse. 
+                               <br>
+                               La rassegna declina la sua offerta in tre nuclei tematici: <em>Fado Remix</em> dal 3 al 5 luglio, <em>From Blues to Bop</em> dal 17 al 20, nome scelto per omaggiare la storica manifestazione luganese, per concludersi dal 24 al 26 luglio con <em>Voodoo Child</em>.',
+      /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Commissionati</a>
+                               <a href="#" class="btn disabled link-opacity-50-hover mt-2">Branding</a>',
+      /*4 VIDEO */            '',
+      /*5 IMMAGINE */         '
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LEPA/Screenshot/LEP_Poster_01.webp" alt="LEP_Poster_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LEPA/Screenshot/LEP_Esterno_01.webp" alt="LEP_Esterno_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LEPA/Mockups/LEP_Multiple_01.webp" alt="LEP_Multiple_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LEPA/Mockups/LEP_Smartphone_01.webp" alt="LEP_Smartphone_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LEPA/Mockups/LEP_Smartphone_02.webp" alt="LEP_Smartphone_02" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LEPA/Mockups/LEP_Totem_01.webp" alt="LEP_Totem_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LEPA/Screenshot/LEP_Flyer_01.webp" alt="LEP_Flyer_01" loading="lazy">
+                               </div>',
+      /*6 NEXT PROJECT A */   'href="project?id=ISPA"',
+      /*7 NEXT PROJECT P */   'ISPA Lugano Congress 2025',
+      /*8 ANNO */             '2025',
+      /*9 Tipologia */        'Commissionato',
+  ),
+
+  //16 - LAC_10-anni
+    array(
+      /*0 TITOLO */           '10 anni',
+      /*1 SOTTOTITOLO */      'Il LAC festeggia il suo compleanno!',
+      /*2 DESCRIZIONE */      'Dal 12 al 14 settembre, il centro culturale ha celebrato il suo decimo anniversario con un programma speciale che ha coinvolto l’intera comunità. Due giornate di concerti e spettacoli diffusi negli spazi del LAC hanno animato la città, seguite da una giornata di porte aperte al Museo d’arte della Svizzera italiana, offrendo al pubblico di ogni età un fine settimana ricco di eventi gratuiti. <br>
+                               Per l’occasione è stata progettata una linea visiva coerente con l’identità del LAC, pensata per promuovere i dieci anni del centro con un approccio essenziale e versatile. La grafica è stata disegnata per adattarsi con coerenza su diversi formati e canali, tra cui sito web, social media e newsletter, trasmettendo un’immagine coordinata e riconoscibile.',
+      /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Commissionati</a>
+                               <a href="#" class="btn disabled link-opacity-50-hover mt-2">Branding</a>',
+      /*4 VIDEO */            '',
+      /*5 IMMAGINE */         '
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_10-anni/Mockups/LAC_Smartphone_01.webp" alt="LAC_Smartphone_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_10-anni/Mockups/LAC_Multiple_01.webp" alt="LAC_Multiple_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_10-anni/Mockups/LAC_Desktop_01.webp" alt="LAC_Desktop_01" loading="lazy">
+                               </div>',
+      /*6 NEXT PROJECT A */   'href="project?id=LEPA"',
+      /*7 NEXT PROJECT P */   'LAC en plein air',
+      /*8 ANNO */             '2025',
+      /*9 Tipologia */        'Commissionato',
+  ),
+
+  //17 - LAC_id
+    array(
+      /*0 TITOLO */           'LAC',
+      /*1 SOTTOTITOLO */      'Lugano Arte e Cultura',
+      /*2 DESCRIZIONE */      'Seguendo l’identità visiva del LAC, sono stati sviluppati diversi supporti, sia cartacei che digitali. Riprendendo il concetto delle bande orizzontali e dei colori che accompagnano le immagini - spesso di scena - sono stati realizzati F4 per la promozione degli eventi, storie e post Instagram con contenuti sempre diversi, segnaletica digitale (totem e ledwall), aggiornamenti delle pagine del sito, programmi di sala, inserzioni pubblicitarie e newsletter dedicate ai prossimi appuntamenti.',
+      /*3 CATEGORIE */        '<a href="#" class="btn disabled link-opacity-50-hover mt-2">Commissionati</a>
+                               <a href="#" class="btn disabled link-opacity-50-hover mt-2">Branding</a>',
+      /*4 VIDEO */            '',
+      /*5 IMMAGINE */         '
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_id/Mockups/LAC_Poster_01.webp" alt="LAC_Poster_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_id/Mockups/LAC_Smartphone_01.webp" alt="LAC_Smartphone_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_id/Mockups/LAC_Smartphone_02.webp" alt="LAC_Smartphone_02" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_id/Mockups/LAC_Totem_01.webp" alt="LAC_Totem_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_id/Mockups/LAC_Multiple_01.webp" alt="LAC_Multiple_01" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_id/Mockups/LAC_Multiple_02.webp" alt="LAC_Multiple_02" loading="lazy">
+                               </div>
+                               <div class="media-background-holder quattro-terzi mt-5">
+                                  <img class="media-background-image" src="../src/Projects/Commissionati/LAC_id/Screenshot/LAC_Flyer_01.webp" alt="LAC_Flyer_01" loading="lazy">
+                               </div>',
+      /*6 NEXT PROJECT A */   'href="project?id=LAC_10-anni"',
+      /*7 NEXT PROJECT P */   '10 anni',
+      /*8 ANNO */             '2025',
+      /*9 Tipologia */        'Commissionato',
+  ),
+
+  
 )
 ?>

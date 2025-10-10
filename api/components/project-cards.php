@@ -1,5 +1,63 @@
 <!-- IN ORDINE DA PROGETTO NUOVO A VECCHIO!!! -->
 
+
+<!-- LAC_id -->
+<div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
+    <a class="link-underline link-underline-opacity-0" href="project?id=LAC_id">
+        <div class="card rounded-0 border-0">
+            <div class="media-background-holder quattro-terzi">
+                <img class="media-background-image animated"
+                    src="../src/Projects/Commissionati/LAC_id/Mockups/LAC_Poster_01.webp"
+                    alt="LAC_Poster_01" loading="lazy">
+            </div>
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <h4 class="card-title">LAC</h4>
+                    <img class="icon" src="../src/Icons/Arrow.svg" alt="Arrow">
+                </div>
+                <p class="card-category commissionati branding">Commissionati, branding</p>
+            </div>
+        </div>
+    </a>
+</div>
+<!-- LAC_10-anni -->
+<div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
+    <a class="link-underline link-underline-opacity-0" href="project?id=LAC_10-anni">
+        <div class="card rounded-0 border-0">
+            <div class="media-background-holder quattro-terzi">
+                <img class="media-background-image animated"
+                    src="../src/Projects/Commissionati/LAC_10-anni/Mockups/LAC_Smartphone_01.webp"
+                    alt="LAC_Smartphone_01" loading="lazy">
+            </div>
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <h4 class="card-title">10 anni</h4>
+                    <img class="icon" src="../src/Icons/Arrow.svg" alt="Arrow">
+                </div>
+                <p class="card-category commissionati branding">Commissionati, branding</p>
+            </div>
+        </div>
+    </a>
+</div>
+<!-- LEPA -->
+<div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
+    <a class="link-underline link-underline-opacity-0" href="project?id=LEPA">
+        <div class="card rounded-0 border-0">
+            <div class="media-background-holder quattro-terzi">
+                <img class="media-background-image animated"
+                    src="../src/Projects/Commissionati/LEPA/Screenshot/LEP_Poster_01.webp"
+                    alt="LEP_Poster_01" loading="lazy">
+            </div>
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <h4 class="card-title">LAC en plein air</h4>
+                    <img class="icon" src="../src/Icons/Arrow.svg" alt="Arrow">
+                </div>
+                <p class="card-category commissionati branding">Commissionati, branding</p>
+            </div>
+        </div>
+    </a>
+</div>
 <!-- ISPA -->
 <div class="card-progetto col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
     <a class="link-underline link-underline-opacity-0" href="project?id=ISPA">

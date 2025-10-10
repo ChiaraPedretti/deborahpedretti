@@ -36,7 +36,13 @@
         echo $project[13][1];
     } else if ($_GET["id"] == "ISPA") {
         echo $project[14][1];
-    } ?>" />
+    } else if ($_GET["id"] == "LEPA") {
+        echo $project[15][1];
+    } else if ($_GET["id"] == "LAC_10-anni") {
+        echo $project[16][1];
+    } else if ($_GET["id"] == "LAC_id") {
+        echo $project[17][1];
+    }?>" />
 
     <title>Deborah Pedretti | Detail</title>
     <link rel="icon" href="src/Icons/X-icon.svg" type="image/x-icon" sizes="16x16">
@@ -92,6 +98,12 @@
                             echo $project[13][0];
                         } else if ($_GET["id"] == "ISPA") {
                             echo $project[14][0];
+                        } else if ($_GET["id"] == "LEPA") {
+                            echo $project[15][0];
+                        } else if ($_GET["id"] == "LAC_10-anni") {
+                            echo $project[16][0];
+                        } else if ($_GET["id"] == "LAC_id") {
+                            echo $project[17][0];
                         }
 
                         ?>
@@ -138,6 +150,12 @@
                             echo $project[13][3];
                         } else if ($_GET["id"] == "ISPA") {
                             echo $project[14][3];
+                        } else if ($_GET["id"] == "LEPA") {
+                            echo $project[15][3];
+                        } else if ($_GET["id"] == "LAC_10-anni") {
+                            echo $project[16][3];
+                        } else if ($_GET["id"] == "LAC_id") {
+                            echo $project[17][3];
                         }
                         ?>
                         <div class="d-flex align-items-baseline mt-5">
@@ -174,6 +192,12 @@
                                     echo $project[13][8];
                                 } else if ($_GET["id"] == "ISPA") {
                                     echo $project[14][8];
+                                } else if ($_GET["id"] == "LEPA") {
+                                    echo $project[15][8];
+                                } else if ($_GET["id"] == "LAC_10-anni") {
+                                    echo $project[16][8];
+                                } else if ($_GET["id"] == "LAC_id") {
+                                    echo $project[17][8];
                                 }
                                 ?>
                             </h3>
@@ -212,6 +236,12 @@
                                     echo $project[13][9];
                                 } else if ($_GET["id"] == "ISPA") {
                                     echo $project[14][9];
+                                } else if ($_GET["id"] == "LEPA") {
+                                    echo $project[15][9];
+                                } else if ($_GET["id"] == "LAC_10-anni") {
+                                    echo $project[16][9];
+                                } else if ($_GET["id"] == "LAC_id") {
+                                    echo $project[17][9];
                                 }
                                 ?>
                             </h3>
@@ -256,6 +286,12 @@
                             echo $project[13][1];
                         } else if ($_GET["id"] == "ISPA") {
                             echo $project[14][1];
+                        } else if ($_GET["id"] == "LEPA") {
+                            echo $project[15][1];
+                        } else if ($_GET["id"] == "LAC_10-anni") {
+                            echo $project[16][1];
+                        } else if ($_GET["id"] == "LAC_id") {
+                            echo $project[17][1];
                         }
                         ?>
                     </h2>
@@ -293,6 +329,12 @@
                                     echo $project[13][2];
                                 } else if ($_GET["id"] == "ISPA") {
                                     echo $project[14][2];
+                                } else if ($_GET["id"] == "LEPA") {
+                                    echo $project[15][2];
+                                } else if ($_GET["id"] == "LAC_10-anni") {
+                                    echo $project[16][2];
+                                } else if ($_GET["id"] == "LAC_id") {
+                                    echo $project[17][2];
                                 }
                                 ?>
                             </p>
@@ -330,6 +372,12 @@
                         echo $project[13][4];
                     } else if ($_GET["id"] == "ISPA") {
                         echo $project[14][4];
+                    } else if ($_GET["id"] == "LEPA") {
+                        echo $project[15][4];
+                    } else if ($_GET["id"] == "LAC_10-anni") {
+                        echo $project[16][4];
+                    } else if ($_GET["id"] == "LAC_id") {
+                        echo $project[17][4];
                     }
                     ?>
                     <?php //Immagini
@@ -363,6 +411,12 @@
                         echo $project[13][5];
                     } else if ($_GET["id"] == "ISPA") {
                         echo $project[14][5];
+                    } else if ($_GET["id"] == "LEPA") {
+                        echo $project[15][5];
+                    } else if ($_GET["id"] == "LAC_10-anni") {
+                        echo $project[16][5];
+                    } else if ($_GET["id"] == "LAC_id") {
+                        echo $project[17][5];
                     }
                     ?>
                     <div class="col mt-5">
@@ -398,6 +452,12 @@
                                 echo $project[13][6];
                             } else if ($_GET["id"] == "ISPA") {
                                 echo $project[14][6];
+                            } else if ($_GET["id"] == "LEPA") {
+                                echo $project[15][6];
+                            } else if ($_GET["id"] == "LAC_10-anni") {
+                                echo $project[16][6];
+                            } else if ($_GET["id"] == "LAC_id") {
+                                echo $project[17][6];
                             }
                             ?>>
                                 <div class="d-flex justify-content-end">
@@ -436,6 +496,12 @@
                                         echo $project[13][7];
                                     } else if ($_GET["id"] == "ISPA") {
                                         echo $project[14][7];
+                                    } else if ($_GET["id"] == "LEPA") {
+                                        echo $project[15][7];
+                                    } else if ($_GET["id"] == "LAC_10-anni") {
+                                        echo $project[16][7];
+                                    } else if ($_GET["id"] == "LAC_id") {
+                                        echo $project[17][7];
                                     }
                                     ?>
                                 </p>
